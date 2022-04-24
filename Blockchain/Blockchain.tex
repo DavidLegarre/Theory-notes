@@ -1,0 +1,25 @@
+\documentclass[a4paper, 12pt]{report}
+\usepackage{amsmath}
+\usepackage{graphicx}
+\usepackage{tikz}
+
+
+\begin{document}
+\chapter{Introduction}
+\section{Blockchain definition}
+Blockchain is a list of records, called \textit{blocks}, that are securely linked together
+using cryptograhpy. Each block contains a cryptograhpic hash of the previous block, a \textit{timestamp}
+, and transaction data, generally represented as a \textit{Merkle tree}. The timestamp proves
+that the transaction data existed when the block was published to get into its hash.
+
+This structure allows for the datastructure to be immutable, and provides a linear forward history.
+\section{Blockchain vs Distributed Ledger Technologies (DLT)}
+Blockchain is a type of DLT i.e. not all DLTs are blockchain.
+
+A DLT is a decentralized database that is managed byvarious participants. There is no central
+authority that acts as monitor. Similar to a blockchain.
+
+The main difference between Blockchain and DLT is that a Blockchain shares its records via blocks
+, cryptograhpically protected blocks, i. e. a specific application of a DLT.
+
+\end{document}
