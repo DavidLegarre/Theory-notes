@@ -1,0 +1,92 @@
+{
+  "main": {
+    "id": "d4eac8d464d1fd50",
+    "type": "split",
+    "children": [
+      {
+        "id": "b5f87ae14f4ffa3e",
+        "type": "leaf",
+        "state": {
+          "type": "pdf",
+          "state": {
+            "file": "ML4N/ML4N.pdf"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "eea4681a79ab8511",
+    "type": "split",
+    "children": [
+      {
+        "id": "0f8cbd347e20ff80",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b2daf353fa2b27ef",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "b2bc14d8ec80857e",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "c0535dc8fc850aa7",
+    "type": "split",
+    "children": [
+      {
+        "id": "d80017d3c5a769f9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d5966cebce80b1aa",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "ML4N/ML4N.pdf",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "b5f87ae14f4ffa3e",
+  "lastOpenFiles": [
+    "ML4N/ML4N.pdf"
+  ]
+}
