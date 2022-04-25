@@ -7,12 +7,8 @@
         "id": "3ae061918548216e",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "ML4N/Link Layer Networking.md",
-            "mode": "source",
-            "source": false
-          }
+          "type": "empty",
+          "state": {}
         }
       }
     ],
@@ -69,7 +65,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ML4N/Link Layer Networking.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,15 +83,15 @@
   },
   "active": "3ae061918548216e",
   "lastOpenFiles": [
-    "ML4N/Link Layer Networking.md",
+    "README.md",
     "ML4N/Transmitted Power Routers.md",
+    "ML4N/Link Layer Networking.md",
     "ML4N/Pasted Images/Pasted image 20220425225552.png",
     "ML4N/Pasted Images/Pasted image 20220425231003.png",
     "ML4N/ML4N.pdf",
     "ML4N/Pasted Images/Pasted image 20220425230734.png",
     "ML4N/Pasted Images/Pasted image 20220425230728.png",
     "ML4N/Pasted Images/Pasted image 20220425230545.png",
-    "ML4N/Pasted Images/Pasted image 20220425230322.png",
-    "Link Layer.md"
+    "ML4N/Pasted Images/Pasted image 20220425230322.png"
   ]
 }
