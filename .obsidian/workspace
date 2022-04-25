@@ -7,8 +7,12 @@
         "id": "3ae061918548216e",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "ML4N/Transmitted Power Routers.md",
+            "mode": "source",
+            "source": false
+          }
         }
       }
     ],
@@ -65,6 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "ML4N/Transmitted Power Routers.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -83,8 +88,8 @@
   },
   "active": "3ae061918548216e",
   "lastOpenFiles": [
-    "README.md",
     "ML4N/Transmitted Power Routers.md",
+    "README.md",
     "ML4N/Link Layer Networking.md",
     "ML4N/Pasted Images/Pasted image 20220425225552.png",
     "ML4N/Pasted Images/Pasted image 20220425231003.png",
