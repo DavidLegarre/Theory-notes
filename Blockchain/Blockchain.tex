@@ -1,8 +1,10 @@
 \documentclass[a4paper, 12pt]{report}
 \usepackage{amsmath}
 \usepackage{graphicx}
+\usepackage{amssymb}
 \usepackage{tikz}
 
+\newtheorem{theorem}{Theorem}
 
 \begin{document}
 \chapter{Introduction}
@@ -23,4 +25,73 @@ The main difference between Blockchain and DLT is that a Blockchain shares its r
 , cryptograhpically protected blocks, i. e. a specific application of a DLT.
 
 \chapter{Introduction to Bitcoin}
+\section{Identity}
+Identity is required for
+\begin{itemize}
+    \item Sending or Receiving money
+    \item General accounting
+\end{itemize}
+In a similiar way as to a Home address and a mailbox key.
+It's important to keep it secure.
+\begin{itemize}
+    \item Public key: is for receiving
+    \item Private key: is for unlocking
+    \item The private key is generated at Random once
+    \item The public key is generated \textbf{from} the private key.
+\end{itemize}
+There a total of $2^{160}$ addresses possible. Each entity 
+in Bitcoin is issued an address. The address is generated
+from a hash of the users' public key. 
+\section{Bitcoin Transactions}
+\subsection{Distributed Database model}
+\begin{itemize}
+    \item Everyone stores a copy of the database
+    \item Lightweight node: Only transaction headers are downloaded
+    to validate transactions.
+\end{itemize}
+
+\section{Proof-of-work consensus}
+\subsection{Bitcoin Security}
+Example double spend attack.
+
+We protect ourselves with timestamps.
+
+\textbf{Blockchain Forking}: The longest chain is accepted as valid.
+\section{Cryptography in Bitcoin}
+\subsection{cryptograhpic hashing functions}
+A function with these properties
+\begin{itemize}
+    \item Preimage resistance
+    \item Second preimage resistance
+    \item Collision resistance
+\end{itemize}
+\begin{theorem}
+    \textbf{Preimage resistnace}: Calcualate the preimage of an output is almost imposible
+\end{theorem}
+
+\begin{theorem}
+    \textbf{Second preimage resistance}: 
+    $\forall x$ it is computationally difficult
+    to find some value $x'\ \textit{such that } H(x)==H(x')$
+\end{theorem}
+
+\begin{theorem}
+    \textbf{Collision resistance}: It is computationally difficult
+    to find $x\land y\ \textit{such that } H(x)==H(y)$
+\end{theorem}
+
+Bitcoin uses the SHA-256$^2$ method hash function,
+which consists of applying the SHA-256 to the output of 
+a SHA-256: $\textit{SHA-}256(\textit{SHA-}256(x))$
+\subsection{The Bitcoin block header}
+A Bitcoin block consists of two parts \textbf{The header} and 
+\textbf{The data}. Similar to an IP packet. 
+
+The Header is composed of:
+\begin{itemize}
+    \item Previous block hash
+    \item The Merkle root
+    \item Nonce (Random number used only once)
+\end{itemize}
+
 \end{document}
