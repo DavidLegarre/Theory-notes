@@ -7,8 +7,12 @@
         "id": "3ae061918548216e",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Combinatorics.md",
+            "mode": "source",
+            "source": false
+          }
         }
       }
     ],
@@ -65,6 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Combinatorics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -79,19 +84,20 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "active": "3ae061918548216e",
   "lastOpenFiles": [
-    "README.md",
+    "Combinatorics.md",
+    "Cryptography/Security.md",
+    "Blockchain/Blockchain.md",
+    "ML4N/Throughput.md",
     "ML4N/Transmitted Power Routers.md",
     "ML4N/Link Layer Networking.md",
+    "README.md",
     "ML4N/Pasted Images/Pasted image 20220425225552.png",
     "ML4N/Pasted Images/Pasted image 20220425231003.png",
-    "ML4N/ML4N.pdf",
-    "ML4N/Pasted Images/Pasted image 20220425230734.png",
-    "ML4N/Pasted Images/Pasted image 20220425230728.png",
-    "ML4N/Pasted Images/Pasted image 20220425230545.png",
-    "ML4N/Pasted Images/Pasted image 20220425230322.png"
+    "ML4N/ML4N.pdf"
   ]
 }
