@@ -9,7 +9,11 @@
         "state": {
           "type": "markdown",
           "state": {
+<<<<<<< HEAD
             "file": "Combinatorics.md",
+=======
+            "file": "ML4N/Transmitted Power Routers.md",
+>>>>>>> 2df42cf5c094e5abb1bceaad7783a300eace0066
             "mode": "source",
             "source": false
           }
@@ -69,7 +73,11 @@
             "state": {
               "type": "backlink",
               "state": {
+<<<<<<< HEAD
                 "file": "Combinatorics.md",
+=======
+                "file": "ML4N/Transmitted Power Routers.md",
+>>>>>>> 2df42cf5c094e5abb1bceaad7783a300eace0066
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,11 +97,15 @@
   },
   "active": "3ae061918548216e",
   "lastOpenFiles": [
+<<<<<<< HEAD
     "Combinatorics.md",
     "Cryptography/Security.md",
     "Blockchain/Blockchain.md",
     "ML4N/Throughput.md",
+=======
+>>>>>>> 2df42cf5c094e5abb1bceaad7783a300eace0066
     "ML4N/Transmitted Power Routers.md",
+    "README.md",
     "ML4N/Link Layer Networking.md",
     "README.md",
     "ML4N/Pasted Images/Pasted image 20220425225552.png",
