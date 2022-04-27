@@ -1,21 +1,15 @@
 {
   "main": {
-    "id": "d4eac8d464d1fd50",
+    "id": "eed5a768280419be",
     "type": "split",
     "children": [
       {
-        "id": "3ae061918548216e",
+        "id": "df8617731ec967b9",
         "type": "leaf",
         "state": {
-          "type": "markdown",
+          "type": "image",
           "state": {
-<<<<<<< HEAD
-            "file": "Combinatorics.md",
-=======
-            "file": "ML4N/Transmitted Power Routers.md",
->>>>>>> 2df42cf5c094e5abb1bceaad7783a300eace0066
-            "mode": "source",
-            "source": false
+            "file": "Pasted image 20220427174420.png"
           }
         }
       }
@@ -23,15 +17,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "eea4681a79ab8511",
+    "id": "a56b8a89e99f8887",
     "type": "split",
     "children": [
       {
-        "id": "0f8cbd347e20ff80",
+        "id": "f51a605df63ec339",
         "type": "tabs",
         "children": [
           {
-            "id": "b2daf353fa2b27ef",
+            "id": "1a6448cae58e15e3",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -39,7 +33,7 @@
             }
           },
           {
-            "id": "b2bc14d8ec80857e",
+            "id": "0c323ea5a22e924b",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -60,30 +54,26 @@
     "width": 300
   },
   "right": {
-    "id": "c0535dc8fc850aa7",
+    "id": "81f9cba06f9af58b",
     "type": "split",
     "children": [
       {
-        "id": "d80017d3c5a769f9",
+        "id": "b3b02b7b88ad42f7",
         "type": "tabs",
         "children": [
           {
-            "id": "d5966cebce80b1aa",
+            "id": "aa8a5ab77a705b7c",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-<<<<<<< HEAD
-                "file": "Combinatorics.md",
-=======
-                "file": "ML4N/Transmitted Power Routers.md",
->>>>>>> 2df42cf5c094e5abb1bceaad7783a300eace0066
+                "file": "Pasted image 20220427174420.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
-                "backlinkCollapsed": true,
+                "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
@@ -95,21 +85,9 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "3ae061918548216e",
+  "active": "df8617731ec967b9",
   "lastOpenFiles": [
-<<<<<<< HEAD
-    "Combinatorics.md",
-    "Cryptography/Security.md",
-    "Blockchain/Blockchain.md",
-    "ML4N/Throughput.md",
-=======
->>>>>>> 2df42cf5c094e5abb1bceaad7783a300eace0066
-    "ML4N/Transmitted Power Routers.md",
-    "README.md",
-    "ML4N/Link Layer Networking.md",
-    "README.md",
-    "ML4N/Pasted Images/Pasted image 20220425225552.png",
-    "ML4N/Pasted Images/Pasted image 20220425231003.png",
-    "ML4N/ML4N.pdf"
+    "Pasted image 20220427174420.png",
+    "Networks/Throughput.md"
   ]
 }
