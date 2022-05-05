@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Mathematics/Higher dimensional fields.md",
+            "file": "Blockchain/Blockchain applications.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mathematics/Higher dimensional fields.md",
+                "file": "Blockchain/Blockchain applications.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,15 +89,15 @@
   },
   "active": "df8617731ec967b9",
   "lastOpenFiles": [
+    "Blockchain/Blockchain applications.md",
+    "Cryptography/Security.md",
+    "Blockchain/Blockchain.md",
+    "Networks/Throughput.md",
+    "Networks/Link Layer Networking.md",
     "Mathematics/Higher dimensional fields.md",
     "Mathematics/Complex numbers.md",
     "Blockchain/Consensus protocol.md",
     "Cryptography/Hash Functions.md",
-    "Cryptography/Security.md",
-    "Mathematics/Algorithms.md",
-    "Mathematics/Combinatorics.md",
-    "[[Security.md",
-    "Blockchain/Tokens.md",
-    "Blockchain/Blockchain.md"
+    "Mathematics/Algorithms.md"
   ]
 }

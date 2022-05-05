@@ -27,3 +27,4 @@ The difference between Tokens and Smart contracts.
 * **Smart contracts**: Logic used to exchange values
 * **Tokens**: The methods on how transactions are made
 
+Some [[Blockchain applications]].

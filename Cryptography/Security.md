@@ -28,3 +28,6 @@ In order to have good encrypted communications, we need the algorithms that we u
 
 ## Security level
 We say that a cryptographic scheme has *n-bit security* if the best known attack requires $2^n$ steps
+
+
+Security is based on [[Hash Functions]].
