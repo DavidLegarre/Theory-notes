@@ -1,1 +1,7 @@
-{}
+{
+  "enabledCssSnippets": [
+    "centerImg"
+  ],
+  "cssTheme": "Atom",
+  "theme": "obsidian"
+}
