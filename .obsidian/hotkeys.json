@@ -14,5 +14,15 @@
       ],
       "key": "F6"
     }
+  ],
+  "editor:toggle-blockquote": [],
+  "editor:toggle-code": [
+    {
+      "modifiers": [
+        "Alt",
+        "Shift"
+      ],
+      "key": "D"
+    }
   ]
 }

@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "b5195dc9dfd4eed4",
+        "id": "c65676fad3d1a17a",
         "type": "leaf",
         "state": {
           "type": "graph",
@@ -49,7 +49,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 367
+    "width": 367,
+    "collapsed": true
   },
   "right": {
     "id": "81f9cba06f9af58b",
@@ -82,17 +83,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "b5195dc9dfd4eed4",
+  "active": "c65676fad3d1a17a",
   "lastOpenFiles": [
-    "Deep Learning/Convolutional NN/Convolutional NN.md",
-    "matrix.md",
-    "matrix product.md",
-    "dot product.md",
-    "Deep Learning/Convolutional NN/Convolution.md",
-    "ZZPasted images/Pasted image 20220510213547.png",
-    "Mathematics/Abstract/Algorithms.md",
-    "Mathematics/Calculus/Functions.md",
-    "Mathematics/Combinatorics.md",
-    "Cryptography/Security.md"
+    "Mathematics/Algebra/matrix.md",
+    "Mathematics/Algebra/matrix product.md",
+    "Blockchain/Blockchain.md",
+    "Cryptography/Hash Functions.md",
+    "Big Data/Deep Learning/Convolutional NN/Convolutional NN.md",
+    "Mathematics/Algebra/Convolution.md",
+    "Pasted image 20220518233913.png",
+    "Pasted image 20220518233127.png",
+    "ZZPasted images/Pasted image 20220518232903.png",
+    "Computer Science/Languages/Solid.md"
   ]
 }
