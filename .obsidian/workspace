@@ -7,8 +7,12 @@
         "id": "c65676fad3d1a17a",
         "type": "leaf",
         "state": {
-          "type": "graph",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Networks/Link Layer Networking.md",
+            "mode": "source",
+            "source": false
+          }
         }
       }
     ],
@@ -49,8 +53,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 367,
-    "collapsed": true
+    "width": 367
   },
   "right": {
     "id": "81f9cba06f9af58b",
@@ -66,6 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Networks/Link Layer Networking.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -85,15 +89,15 @@
   },
   "active": "c65676fad3d1a17a",
   "lastOpenFiles": [
+    "Networks/Link Layer Networking.md",
+    "Networks/Throughput.md",
+    "Networks/Transmitted Power Routers.md",
+    "Untitled.md",
     "Mathematics/Algebra/matrix.md",
     "Mathematics/Algebra/matrix product.md",
     "Blockchain/Blockchain.md",
     "Cryptography/Hash Functions.md",
     "Big Data/Deep Learning/Convolutional NN/Convolutional NN.md",
-    "Mathematics/Algebra/Convolution.md",
-    "Pasted image 20220518233913.png",
-    "Pasted image 20220518233127.png",
-    "ZZPasted images/Pasted image 20220518232903.png",
-    "Computer Science/Languages/Solid.md"
+    "Mathematics/Algebra/Convolution.md"
   ]
 }

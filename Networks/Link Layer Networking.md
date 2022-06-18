@@ -1,5 +1,5 @@
 # Link Layer
-In a tipical connection we have multiple nodes connected in a half-duplex manner (the connection allows communication in both directions but only one direction at a time). 
+In a typical connection we have multiple nodes connected in a half-duplex manner (the connection allows communication in both directions but only one direction at a time). 
 The channel access arbitration is done using the **Distributed Coordination Function (DCF)** 
 
 ## Binary Exponential Backoff
@@ -9,7 +9,7 @@ The channel access arbitration is done using the **Distributed Coordination Func
 ## Automatic ReQuest Protocol (Stop & Wait)
 * Unconfirmed packets are retransmitted until they are acknowledged or discarded
 * There is a maximum number of retransmissions: $R_{max}$
-* Stop & Wait ARQ protocol, where we send and ACK package where we specify everythings gone fine
+* Stop & Wait ARQ protocol, where we send and ACK package where we specify everything has gone fine
 ![[Pasted image 20220425230545.png]]
 
 * **SIFS**: Short InterFrame Space, the amount in microseconds required for a wireless interface to process a received frame and to response with a response frame.
