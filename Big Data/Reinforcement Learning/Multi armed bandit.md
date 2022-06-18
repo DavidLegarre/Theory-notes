@@ -1,5 +1,12 @@
 # Multi-armed bandit (MAB)
-The idea is simple, we create an agent which we will allow to choose actions, and each action has a reward associated given by, an underlying, probability distribution.
+The Multi-armed Bandit problem is used in [[Reinforcement learning]] to formalize the notion of decision-making under uncertainty. In a multi-armed bandit problem, an agent chooses between $k$ different actions and receives reward base on the chosen action. 
+
+## Action-value & Action-value estimate
+For an agent to decide which action yields the maximum  reward, we must define the value of making each action. We use the concept of probability to define these values using the action-value function.
+The value of selecting an action is defined as the expected reward received when taking that action from a set of possible actions. Since the value of selecting an action is unkown to the agent, we use the 'sample-average' method to estimate the value of taking an action.
+
+![[Pasted image 20220618200426.png]]
+
 
 ## $\epsilon$-greedy algorithms
 Once we have our [[Q-Table]] built, we may decide for the pure greedy function where we only choose the maximum reward. In $\epsilon$-greedy algorithms, we define that with $p=\epsilon$ the system will try a random option and add this reward to our Q-table, and then maximize this new Q-table.

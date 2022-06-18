@@ -1,6 +1,9 @@
 # Wifi Network
 We have an Access Point (AP) that transmits data packets to our Station (STA). In order to avoid collisions, the AP chooses at random a delay from a contention window (CW), in the range $[0,CW]$, to wait before starting transmission. This way chances of two STAs starting to transmit at the same time become smaller. 
 
+![[Pasted image 20220618194348.png]]
+An example of a packet
+
 Then, the receiver of this packet sends and ACK (acknowledge) packet, signaling that it has received it correctly. The time the system waits for this ACK is called SIFS (Short InterFace Space), this is necessary for the AP to switch the antenna from transmit mode to receive mode. 
 
 ![[Pasted image 20220523225633.png]]
