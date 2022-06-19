@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Big Data/Reinforcement Learning/Multi armed bandit.md",
+            "file": "Mathematics/Probability/Probability.md",
             "mode": "source",
             "source": false
           }
@@ -53,8 +53,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 367,
-    "collapsed": true
+    "width": 367
   },
   "right": {
     "id": "81f9cba06f9af58b",
@@ -70,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Big Data/Reinforcement Learning/Multi armed bandit.md",
+                "file": "Mathematics/Probability/Probability.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -90,15 +89,15 @@
   },
   "active": "9afe6919264be043",
   "lastOpenFiles": [
+    "Mathematics/Probability/Probability.md",
+    "Mathematics/Statistics/Standard deviation.md",
+    "Mathematics/Statistics/Mean.md",
+    "Big Data/Reinforcement Learning/Thompson Sampling.md",
+    "Big Data/Reinforcement Learning/Epsilon-greedy.md",
     "Big Data/Reinforcement Learning/Multi armed bandit.md",
     "Big Data/Reinforcement Learning/Reinforcement learning.md",
-    "Big Data/Machine Learning/Machine Learning.md",
     "Big Data/Reinforcement Learning/Q-Table.md",
-    "Networks/Wifi Network.md",
-    "Networks/Link Layer Networking.md",
-    "Networks/Throughput.md",
-    "Networks/Transmitted Power Routers.md",
-    "Mathematics/Algebra/matrix.md",
-    "Mathematics/Algebra/matrix product.md"
+    "Big Data/Machine Learning/Machine Learning.md",
+    "Networks/Wifi Network.md"
   ]
 }
