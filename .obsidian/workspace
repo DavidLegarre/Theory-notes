@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Big Data/Reinforcement Learning/Q-learning.md",
+            "file": "Computer Science/Big Data/Reinforcement Learning/Q-learning.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Big Data/Reinforcement Learning/Q-learning.md",
+                "file": "Computer Science/Big Data/Reinforcement Learning/Q-learning.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,13 +89,15 @@
   },
   "active": "7dfd4e46b15d6965",
   "lastOpenFiles": [
-    "Big Data/Reinforcement Learning/Q-learning.md",
-    "Big Data/Reinforcement Learning/Multi armed bandit.md",
-    "Big Data/Reinforcement Learning/Q-Table.md",
-    "Big Data/Reinforcement Learning/MDP.md",
-    "Big Data/Reinforcement Learning/Reinforcement learning.md",
-    "Big Data/Reinforcement Learning/UCB.md",
-    "Big Data/Reinforcement Learning/Epsilon-greedy.md",
-    "Big Data/Reinforcement Learning/Thompson Sampling.md"
+    "Computer Science/Big Data/Reinforcement Learning/Q-learning.md",
+    "Computer Science/Big Data/Reinforcement Learning/Multi armed bandit.md",
+    "Computer Science/Big Data/Reinforcement Learning/Epsilon-greedy.md",
+    "Computer Science/Big Data/Reinforcement Learning/UCB.md",
+    "Computer Science/Big Data/Reinforcement Learning/Thompson Sampling.md",
+    "Computer Science/Big Data/Reinforcement Learning/Reinforcement learning.md",
+    "Computer Science/Big Data/Reinforcement Learning/Q-Table.md",
+    "Computer Science/Big Data/Reinforcement Learning/MDP.md",
+    "Networks/Throughput.md",
+    "Networks/Transmitted Power Routers.md"
   ]
 }

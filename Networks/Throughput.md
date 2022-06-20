@@ -41,5 +41,25 @@ $$
 With $N$ as the number of STAs.
 In a network we can assume that all devices Tx with the same $\tau$.
 
+# Throughput
+![[Pasted image 20220620195958.png]]
+
+We can transmit 3 packets of size $L$ and each packet takes $Ts$ to process, then, we have 1 collision that it also takes $Ts$ to process since it still another packet to send, then we have 4 empty slots and each one takes $T_{e}s$  so with the formula of throughput in [[Throughput#Definition]]:
+$$
+Th=\frac{N_{s}\cdot L}{N_{e}\cdot T_{e}+(N_{s}+N_{c})\cdot T}
+$$
+
+Where $N_{s}:$ Number of successes, $N_{e}:$ number of empty slots, $N_{c}:$  number of collisions
+
 # Throughpout as probabilities
+
 ![[Pasted image 20220523232233.png]]
+
+Then:
+* $p_{e}=(1-\tau)^{N}$ 
+* $p_{s}=N\tau(1-\tau)^{N-1}$ 
+* $p_c=1-p_{e}-p_{s}$ 
+
+![[Pasted image 20220620200738.png]]
+
+
