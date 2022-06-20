@@ -1,5 +1,5 @@
 # Throughput of data
-Specifically calculated from a [[Wifi Network]].
+Specifically calculated from a [[Wi-Fi Network]].
 
 ## Definition
 In communication networks, *network throughput* is defined as the rate of successful message delivery over a communication channel in a time period.

@@ -1,15 +1,15 @@
 {
   "main": {
-    "id": "eed5a768280419be",
+    "id": "4f04170cf74bedef",
     "type": "split",
     "children": [
       {
-        "id": "9afe6919264be043",
+        "id": "7dfd4e46b15d6965",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Mathematics/Probability/Probability.md",
+            "file": "Big Data/Reinforcement Learning/MDP.md",
             "mode": "source",
             "source": false
           }
@@ -19,15 +19,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "a56b8a89e99f8887",
+    "id": "5603580c4a406a6e",
     "type": "split",
     "children": [
       {
-        "id": "f51a605df63ec339",
+        "id": "86f4e642cb2c332e",
         "type": "tabs",
         "children": [
           {
-            "id": "1a6448cae58e15e3",
+            "id": "d91f52882c0ed99d",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -35,7 +35,7 @@
             }
           },
           {
-            "id": "0c323ea5a22e924b",
+            "id": "fa39e8782038d7fe",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -53,23 +53,23 @@
       }
     ],
     "direction": "horizontal",
-    "width": 367
+    "width": 300
   },
   "right": {
-    "id": "81f9cba06f9af58b",
+    "id": "1887b2a156c58c03",
     "type": "split",
     "children": [
       {
-        "id": "b3b02b7b88ad42f7",
+        "id": "7fe2930d3a49d5f2",
         "type": "tabs",
         "children": [
           {
-            "id": "aa8a5ab77a705b7c",
+            "id": "43f122ba81ecbbb3",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mathematics/Probability/Probability.md",
+                "file": "Big Data/Reinforcement Learning/MDP.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -87,17 +87,14 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "9afe6919264be043",
+  "active": "7dfd4e46b15d6965",
   "lastOpenFiles": [
-    "Mathematics/Probability/Probability.md",
-    "Mathematics/Statistics/Standard deviation.md",
-    "Mathematics/Statistics/Mean.md",
-    "Big Data/Reinforcement Learning/Thompson Sampling.md",
-    "Big Data/Reinforcement Learning/Epsilon-greedy.md",
-    "Big Data/Reinforcement Learning/Multi armed bandit.md",
+    "Big Data/Reinforcement Learning/MDP.md",
     "Big Data/Reinforcement Learning/Reinforcement learning.md",
+    "Big Data/Reinforcement Learning/Multi armed bandit.md",
+    "Big Data/Reinforcement Learning/UCB.md",
     "Big Data/Reinforcement Learning/Q-Table.md",
-    "Big Data/Machine Learning/Machine Learning.md",
-    "Networks/Wifi Network.md"
+    "Big Data/Reinforcement Learning/Epsilon-greedy.md",
+    "Big Data/Reinforcement Learning/Thompson Sampling.md"
   ]
 }

@@ -3,7 +3,7 @@ As an alternative to [[Epsilon-greedy]], in order to improve how the algorithm e
 We assume the reward of each action follows a Gaussian distribution.
 
 For each action, we estimate its mean, and adjust the variance proportionally to the number of times we played that action in the past.
-* The more an action is explored, the lower its variance, and viceversa.
+* The more an action is explored, the lower its variance, and vice versa.
 * This variance captures our confidence that the estimation of the reward is correct.
 
 ![[Pasted image 20220619204431.png]]

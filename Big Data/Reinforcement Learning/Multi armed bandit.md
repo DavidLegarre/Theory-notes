@@ -14,9 +14,16 @@ The value of selecting an action is defined as the expected reward received when
 * **Exploitation** is the phase where the agent chooses the greedy action to get the most reward by exploiting the agent's current action-value estimates.
 
 When agent explores it gets more **accurate** estimations of action-values. And when it exploits, it might get more **reward**. It **cannot do both**.
-![[Pasted image 20220619200118.png]]
+![[Pasted image 20220620122351.png]]
 
 # Types of algorithms
 We have:
 * [[Epsilon-greedy]]
-* 
+* [[Thompson Sampling]]
+* [[UCB]]
+
+
+# Context to Reinforcement Learning
+![[Pasted image 20220620134106.png]]
+
+We can have different algorithms in each state, with different parameters.

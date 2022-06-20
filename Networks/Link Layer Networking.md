@@ -1,5 +1,9 @@
 # Link Layer
+<<<<<<< Updated upstream
 In a typical connection we have multiple nodes connected in a half-duplex manner (the connection allows communication in both directions but only one direction at a time). 
+=======
+In a typical [[Wi-Fi Network]] we have multiple nodes connected in a half-duplex manner (the connection allows communication in both directions but only one direction at a time). 
+>>>>>>> Stashed changes
 The channel access arbitration is done using the **Distributed Coordination Function (DCF)** 
 
 ## Binary Exponential Backoff

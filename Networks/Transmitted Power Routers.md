@@ -1,5 +1,5 @@
 # Transmitted Power
-We define Transmitted Power:
+We define Transmitted Power on a [[Wi-Fi Network]]:
 ![[Pasted image 20220425231003.png]]
 $$Pt(dBm)=10\log10(Pt[mW])$$
 # Path-loss
