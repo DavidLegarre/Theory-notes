@@ -7,8 +7,12 @@
         "id": "19de75da223b78c9",
         "type": "leaf",
         "state": {
-          "type": "graph",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Mathematics/Statistics/Bayesian statistics/Bayesian Network.md",
+            "mode": "source",
+            "source": false
+          }
         }
       }
     ],
@@ -65,6 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Mathematics/Statistics/Bayesian statistics/Bayesian Network.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -84,9 +89,9 @@
   },
   "active": "19de75da223b78c9",
   "lastOpenFiles": [
+    "Mathematics/Statistics/Bayesian statistics/Bayesian Network.md",
     "Pasted image 20220620195958.png.md",
     "Mathematics/Statistics/Probability/Probabilistic Graphical Models.md",
-    "Mathematics/Statistics/Bayesian statistics/Bayesian Network.md",
     "Mathematics/Discrete mathematics/Graph Theory/Graph.md",
     "[[Graph]].md",
     "Mathematics/Map of mathematics.md",
