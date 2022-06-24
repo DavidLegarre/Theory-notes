@@ -4,15 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "7dfd4e46b15d6965",
+        "id": "19de75da223b78c9",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Computer Science/Big Data/Reinforcement Learning/Q-learning.md",
-            "mode": "source",
-            "source": false
-          }
+          "type": "graph",
+          "state": {}
         }
       }
     ],
@@ -69,7 +65,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Computer Science/Big Data/Reinforcement Learning/Q-learning.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -87,17 +82,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "7dfd4e46b15d6965",
+  "active": "19de75da223b78c9",
   "lastOpenFiles": [
+    "Pasted image 20220620195958.png.md",
+    "Mathematics/Statistics/Probability/Probabilistic Graphical Models.md",
+    "Mathematics/Statistics/Bayesian statistics/Bayesian Network.md",
+    "Mathematics/Discrete mathematics/Graph Theory/Graph.md",
+    "[[Graph]].md",
+    "Mathematics/Map of mathematics.md",
+    "Mathematics/Statistics/Probability/Probability.md",
+    "Graph theory.md",
     "Computer Science/Big Data/Reinforcement Learning/Q-learning.md",
-    "Computer Science/Big Data/Reinforcement Learning/Multi armed bandit.md",
-    "Computer Science/Big Data/Reinforcement Learning/Epsilon-greedy.md",
-    "Computer Science/Big Data/Reinforcement Learning/UCB.md",
-    "Computer Science/Big Data/Reinforcement Learning/Thompson Sampling.md",
-    "Computer Science/Big Data/Reinforcement Learning/Reinforcement learning.md",
-    "Computer Science/Big Data/Reinforcement Learning/Q-Table.md",
-    "Computer Science/Big Data/Reinforcement Learning/MDP.md",
-    "Networks/Throughput.md",
-    "Networks/Transmitted Power Routers.md"
+    "Computer Science/Big Data/Reinforcement Learning/Multi armed bandit.md"
   ]
 }
