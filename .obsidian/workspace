@@ -87,6 +87,7 @@
   },
   "active": "0484a0ded03806ed",
   "lastOpenFiles": [
+<<<<<<< Updated upstream
     "ZZPasted images/Pasted image 20220625121014.png",
     "Mathematics/Statistics/Probability/Probabilistic Graphical Models.md",
     "Mathematics/Statistics/Bayesian statistics/Bayesian Network.md",
@@ -97,5 +98,17 @@
     "Mathematics/Discrete mathematics/Graph Theory/Graph.md",
     "[[Graph]].md",
     "Mathematics/Map of mathematics.md"
+=======
+    "Computer Science/Big Data/Reinforcement Learning/Q-learning.md",
+    "Computer Science/Big Data/Reinforcement Learning/MDP.md",
+    "Computer Science/Big Data/Reinforcement Learning/Reinforcement learning.md",
+    "Computer Science/Big Data/Reinforcement Learning/Epsilon-greedy.md",
+    "Computer Science/Big Data/Reinforcement Learning/Multi armed bandit.md",
+    "Computer Science/Big Data/Reinforcement Learning/UCB.md",
+    "Computer Science/Big Data/Reinforcement Learning/Thompson Sampling.md",
+    "Computer Science/Big Data/Reinforcement Learning/Q-Table.md",
+    "Networks/Throughput.md",
+    "Networks/Transmitted Power Routers.md"
+>>>>>>> Stashed changes
   ]
 }
