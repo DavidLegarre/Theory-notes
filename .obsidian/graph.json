@@ -4,8 +4,8 @@
   "showTags": true,
   "showAttachments": false,
   "hideUnresolved": true,
-  "showOrphans": false,
-  "collapse-color-groups": true,
+  "showOrphans": true,
+  "collapse-color-groups": false,
   "colorGroups": [
     {
       "query": "path:Biology",
@@ -27,9 +27,23 @@
         "a": 1,
         "rgb": 120292
       }
+    },
+    {
+      "query": "path:Statistics",
+      "color": {
+        "a": 1,
+        "rgb": 16711744
+      }
+    },
+    {
+      "query": "path:Chemistry",
+      "color": {
+        "a": 1,
+        "rgb": 2943067
+      }
     }
   ],
-  "collapse-display": false,
+  "collapse-display": true,
   "showArrow": false,
   "textFadeMultiplier": 0,
   "nodeSizeMultiplier": 1,
@@ -39,6 +53,6 @@
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 0.41680830699410987,
-  "close": false
+  "scale": 0.41680830699410915,
+  "close": true
 }
