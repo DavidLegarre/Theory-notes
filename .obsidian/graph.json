@@ -5,62 +5,27 @@
   "showAttachments": false,
   "hideUnresolved": true,
   "showOrphans": false,
-  "collapse-color-groups": false,
+  "collapse-color-groups": true,
   "colorGroups": [
+    {
+      "query": "path:Biology",
+      "color": {
+        "a": 1,
+        "rgb": 2068224
+      }
+    },
+    {
+      "query": "path:Mathematics",
+      "color": {
+        "a": 1,
+        "rgb": 6619830
+      }
+    },
     {
       "query": "path:\"Computer Science\"",
       "color": {
         "a": 1,
-        "rgb": 1039153
-      }
-    },
-    {
-      "query": "path:Mathematics/Algebra",
-      "color": {
-        "a": 1,
-        "rgb": 14725458
-      }
-    },
-    {
-      "query": "path:Mathematics/Abstract",
-      "color": {
-        "a": 1,
-        "rgb": 11657298
-      }
-    },
-    {
-      "query": "path:Mathematics/Calculus",
-      "color": {
-        "a": 1,
-        "rgb": 5431378
-      }
-    },
-    {
-      "query": "path:Mathematics/Statistics",
-      "color": {
-        "a": 1,
-        "rgb": 8586731
-      }
-    },
-    {
-      "query": "path:\"Mathematics/Discrete mathematics\"",
-      "color": {
-        "a": 1,
-        "rgb": 5419488
-      }
-    },
-    {
-      "query": "path:\"Mathematics/Number Theory\"",
-      "color": {
-        "a": 1,
-        "rgb": 18253
-      }
-    },
-    {
-      "query": "path:Mathematics/Cryptography",
-      "color": {
-        "a": 1,
-        "rgb": 11621088
+        "rgb": 120292
       }
     }
   ],
@@ -74,6 +39,6 @@
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 0.5963258621008605,
-  "close": true
+  "scale": 0.41680830699410987,
+  "close": false
 }

@@ -1,31 +1,29 @@
 {
   "main": {
-    "id": "4f04170cf74bedef",
+    "id": "1b2e8879be9f2849",
     "type": "split",
     "children": [
       {
-        "id": "0484a0ded03806ed",
+        "id": "e0fc74193067d89e",
         "type": "leaf",
         "state": {
-          "type": "image",
-          "state": {
-            "file": "ZZPasted images/Pasted image 20220625121014.png"
-          }
+          "type": "graph",
+          "state": {}
         }
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "5603580c4a406a6e",
+    "id": "65d7b1a9bdfa1761",
     "type": "split",
     "children": [
       {
-        "id": "86f4e642cb2c332e",
+        "id": "468345314c5386d5",
         "type": "tabs",
         "children": [
           {
-            "id": "d91f52882c0ed99d",
+            "id": "b933da1c30bb65ee",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -33,7 +31,7 @@
             }
           },
           {
-            "id": "fa39e8782038d7fe",
+            "id": "7ffcedd096e789d3",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -54,20 +52,19 @@
     "width": 300
   },
   "right": {
-    "id": "1887b2a156c58c03",
+    "id": "5812ec842aed298d",
     "type": "split",
     "children": [
       {
-        "id": "7fe2930d3a49d5f2",
+        "id": "622fea2255caf81c",
         "type": "tabs",
         "children": [
           {
-            "id": "43f122ba81ecbbb3",
+            "id": "56d85ae5a1e3695c",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ZZPasted images/Pasted image 20220625121014.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -85,30 +82,6 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "0484a0ded03806ed",
-  "lastOpenFiles": [
-<<<<<<< Updated upstream
-    "ZZPasted images/Pasted image 20220625121014.png",
-    "Mathematics/Statistics/Probability/Probabilistic Graphical Models.md",
-    "Mathematics/Statistics/Bayesian statistics/Bayesian Network.md",
-    "Mathematics/Statistics/Probability/Probabilities Properties.md",
-    "Mathematics/Statistics/Probability/Probability.md",
-    "Mathematics/Statistics/Bayesian statistics/Bayes' Theorem.md",
-    "Pasted image 20220620195958.png.md",
-    "Mathematics/Discrete mathematics/Graph Theory/Graph.md",
-    "[[Graph]].md",
-    "Mathematics/Map of mathematics.md"
-=======
-    "Computer Science/Big Data/Reinforcement Learning/Q-learning.md",
-    "Computer Science/Big Data/Reinforcement Learning/MDP.md",
-    "Computer Science/Big Data/Reinforcement Learning/Reinforcement learning.md",
-    "Computer Science/Big Data/Reinforcement Learning/Epsilon-greedy.md",
-    "Computer Science/Big Data/Reinforcement Learning/Multi armed bandit.md",
-    "Computer Science/Big Data/Reinforcement Learning/UCB.md",
-    "Computer Science/Big Data/Reinforcement Learning/Thompson Sampling.md",
-    "Computer Science/Big Data/Reinforcement Learning/Q-Table.md",
-    "Networks/Throughput.md",
-    "Networks/Transmitted Power Routers.md"
->>>>>>> Stashed changes
-  ]
+  "active": "e0fc74193067d89e",
+  "lastOpenFiles": []
 }
