@@ -1,5 +1,6 @@
 {
   "main": {
+<<<<<<< Updated upstream
     "id": "1b2e8879be9f2849",
     "type": "split",
     "children": [
@@ -8,6 +9,16 @@
         "type": "leaf",
         "state": {
           "type": "graph",
+=======
+    "id": "9e9877179bff3777",
+    "type": "split",
+    "children": [
+      {
+        "id": "3f9d7f8460369ce5",
+        "type": "leaf",
+        "state": {
+          "type": "empty",
+>>>>>>> Stashed changes
           "state": {}
         }
       }
@@ -15,6 +26,7 @@
     "direction": "vertical"
   },
   "left": {
+<<<<<<< Updated upstream
     "id": "65d7b1a9bdfa1761",
     "type": "split",
     "children": [
@@ -24,6 +36,17 @@
         "children": [
           {
             "id": "b933da1c30bb65ee",
+=======
+    "id": "fd27dd3e2239ef59",
+    "type": "split",
+    "children": [
+      {
+        "id": "6229b30b8190c53a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "742d3800d954520b",
+>>>>>>> Stashed changes
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -31,7 +54,11 @@
             }
           },
           {
+<<<<<<< Updated upstream
             "id": "7ffcedd096e789d3",
+=======
+            "id": "b8bfffaecba5020b",
+>>>>>>> Stashed changes
             "type": "leaf",
             "state": {
               "type": "search",
@@ -52,6 +79,7 @@
     "width": 300
   },
   "right": {
+<<<<<<< Updated upstream
     "id": "5812ec842aed298d",
     "type": "split",
     "children": [
@@ -61,6 +89,17 @@
         "children": [
           {
             "id": "56d85ae5a1e3695c",
+=======
+    "id": "b8c1d1911bc47892",
+    "type": "split",
+    "children": [
+      {
+        "id": "8533d9eccfbec09c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f0efbef8d2b815ee",
+>>>>>>> Stashed changes
             "type": "leaf",
             "state": {
               "type": "backlink",
@@ -82,6 +121,7 @@
     "width": 300,
     "collapsed": true
   },
+<<<<<<< Updated upstream
   "active": "e0fc74193067d89e",
   "lastOpenFiles": [
     "Statistics/Bayesian statistics/Markov Networks.md",
@@ -93,4 +133,8 @@
     "Statistics/Bayesian statistics/Bayes' Theorem.md",
     "Chemistry/Atoms.md"
   ]
+=======
+  "active": "3f9d7f8460369ce5",
+  "lastOpenFiles": []
+>>>>>>> Stashed changes
 }
