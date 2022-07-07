@@ -1,52 +1,33 @@
 {
   "main": {
-<<<<<<< Updated upstream
-    "id": "1b2e8879be9f2849",
+    "id": "1f32f240c56ea743",
     "type": "split",
     "children": [
       {
-        "id": "e0fc74193067d89e",
+        "id": "eeb304cee0ac7091",
         "type": "leaf",
         "state": {
-          "type": "graph",
-=======
-    "id": "9e9877179bff3777",
-    "type": "split",
-    "children": [
-      {
-        "id": "3f9d7f8460369ce5",
-        "type": "leaf",
-        "state": {
-          "type": "empty",
->>>>>>> Stashed changes
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Cryptography/Number Theory/Group Theory.md",
+            "mode": "source",
+            "source": false
+          }
         }
       }
     ],
     "direction": "vertical"
   },
   "left": {
-<<<<<<< Updated upstream
-    "id": "65d7b1a9bdfa1761",
+    "id": "161714a60567771f",
     "type": "split",
     "children": [
       {
-        "id": "468345314c5386d5",
+        "id": "cd19ae7120bf4743",
         "type": "tabs",
         "children": [
           {
-            "id": "b933da1c30bb65ee",
-=======
-    "id": "fd27dd3e2239ef59",
-    "type": "split",
-    "children": [
-      {
-        "id": "6229b30b8190c53a",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "742d3800d954520b",
->>>>>>> Stashed changes
+            "id": "2a0ac3bd029ca9f7",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -54,11 +35,7 @@
             }
           },
           {
-<<<<<<< Updated upstream
-            "id": "7ffcedd096e789d3",
-=======
-            "id": "b8bfffaecba5020b",
->>>>>>> Stashed changes
+            "id": "877fc1cbefbce90e",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -79,31 +56,20 @@
     "width": 300
   },
   "right": {
-<<<<<<< Updated upstream
-    "id": "5812ec842aed298d",
+    "id": "d9938b13a8a53c8e",
     "type": "split",
     "children": [
       {
-        "id": "622fea2255caf81c",
+        "id": "82157a1a766ef4f5",
         "type": "tabs",
         "children": [
           {
-            "id": "56d85ae5a1e3695c",
-=======
-    "id": "b8c1d1911bc47892",
-    "type": "split",
-    "children": [
-      {
-        "id": "8533d9eccfbec09c",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "f0efbef8d2b815ee",
->>>>>>> Stashed changes
+            "id": "994fadee66415e43",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Cryptography/Number Theory/Group Theory.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,20 +87,17 @@
     "width": 300,
     "collapsed": true
   },
-<<<<<<< Updated upstream
-  "active": "e0fc74193067d89e",
+  "active": "eeb304cee0ac7091",
   "lastOpenFiles": [
-    "Statistics/Bayesian statistics/Markov Networks.md",
-    "Mathematics/Discrete mathematics/Graph Theory/Graph.md",
-    "Mathematics/Discrete mathematics/Graph Theory/Glossary of Graph Theory.md",
-    "Statistics/Bayesian statistics/Bayesian Network.md",
-    "ZZPasted images/Pasted image 20220703171236.png",
-    "Statistics/Probability/Probabilistic Graphical Models.md",
-    "Statistics/Bayesian statistics/Bayes' Theorem.md",
-    "Chemistry/Atoms.md"
+    "Cryptography/Number Theory/Group Theory.md",
+    "Cryptography/Number Theory/Euclidean Algorithm.md",
+    "Cryptography/Number Theory/Chinese Remainder Theorem (C.R.T).md",
+    "Cryptography/Encryption schemas/AES.md",
+    "Cryptography/Encryption schemas/RSA.md",
+    "Cryptography/Encryption schemas/Encryption schema properties.md",
+    "Cryptography/Encryption schemas/Perfect Secrecy.md",
+    "Cryptography/Encryption schemas/Elgamal.md",
+    "Cryptography/Diffie–Hellman.md",
+    "Cryptography/Secret Sharing.md"
   ]
-=======
-  "active": "3f9d7f8460369ce5",
-  "lastOpenFiles": []
->>>>>>> Stashed changes
 }

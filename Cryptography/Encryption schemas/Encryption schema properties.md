@@ -14,3 +14,7 @@ Remember that c is the ***ciphertext*** and m is the **message**.  A encryption 
 	- Randomness:
 		- [[CPA]] secure
 		- [[Perfect Secrecy]] holds
+
+## Types of encryption schema
+* [[Elgamal]]
+* [[RSA]]
