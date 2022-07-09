@@ -4,15 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "eeb304cee0ac7091",
+        "id": "62031217ed269ffe",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Cryptography/Number Theory/Group Theory.md",
-            "mode": "source",
-            "source": false
-          }
+          "type": "empty",
+          "state": {}
         }
       }
     ],
@@ -69,7 +65,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Cryptography/Number Theory/Group Theory.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -87,17 +82,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "eeb304cee0ac7091",
+  "active": "62031217ed269ffe",
   "lastOpenFiles": [
-    "Cryptography/Number Theory/Group Theory.md",
-    "Cryptography/Number Theory/Euclidean Algorithm.md",
-    "Cryptography/Number Theory/Chinese Remainder Theorem (C.R.T).md",
-    "Cryptography/Encryption schemas/AES.md",
-    "Cryptography/Encryption schemas/RSA.md",
-    "Cryptography/Encryption schemas/Encryption schema properties.md",
-    "Cryptography/Encryption schemas/Perfect Secrecy.md",
-    "Cryptography/Encryption schemas/Elgamal.md",
-    "Cryptography/Diffie–Hellman.md",
-    "Cryptography/Secret Sharing.md"
+    "Statistics/Statistical Algorithms.md",
+    "Statistics/PGM Algorithms/Variable Elimination (algorithm).md",
+    "Statistics/PGM Algorithms/Belief propagation.md",
+    "Statistics/Bayesian statistics/Bayesian Network.md",
+    "Statistics/Bayesian statistics/Bayes' Theorem.md",
+    "Statistics/Bayesian statistics/Markov Networks.md",
+    "Statistics/Bayesian statistics/Convert networks.md",
+    "ZZPasted images/Pasted image 20220707183411.png",
+    "Mathematics/Discrete mathematics/Graph Theory/Glossary of Graph Theory.md",
+    "Statistics/Probability/Probabilistic Graphical Models.md"
   ]
 }

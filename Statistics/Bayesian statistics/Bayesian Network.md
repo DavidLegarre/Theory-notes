@@ -26,11 +26,17 @@ This factorization represents a probability distribution $\to$ all values are po
 Each variable is conditionally independent of all its non-descendants in the graph given the value of all of its parents
 
 # D-separation algorithm
-Is an [[Algorithms|algorithm]] that given an evidence set $E$ and two non-overlapping subsets of variables $A$ and $B$, it returns us whether $A\perp B|C$ holds or not.
+Is an [[Mathematics/Abstract/Algorithms|algorithm]] that given an evidence set $E$ and two non-overlapping subsets of variables $A$ and $B$, it returns us whether $A\perp B|C$ holds or not.
+
+We know a path is blocked if:
 
 ![[Pasted image 20220703185417.png]]
 
 
+If all paths from $A$ and $B$ are blocked then, $A$ is d-separated from $B$ by $C$ and
+$$
+A\perp B\ |\ C
+$$
 # Models as Bayesian Networks
 ## Naïve bayes
 In classification problems: features are pairwise independent given the class.

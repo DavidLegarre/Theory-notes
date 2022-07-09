@@ -17,3 +17,16 @@ p(x)=\frac{1}{Z}
 $$
 
 Where $C$ is a [[Graph#Cliques|clique]] in the graph
+
+## Maps
+### D-maps
+A graph $G$ is a $D$-map (dependency-map) of probability distribution $P$ if:
+$$
+I(P)\subseteq I(G)
+$$
+### I-maps
+A graph $G$ is an $I$-map (Independency-map) of probability distribution $P$ if:
+$$
+I(G)\subseteq I(P)
+$$
+![[Pasted image 20220708190325.png]]
