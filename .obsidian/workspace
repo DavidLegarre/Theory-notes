@@ -4,11 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "62031217ed269ffe",
+        "id": "8e28889761d4d46e",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Statistics/Probability/Probabilities Properties.md",
+            "mode": "source",
+            "source": false
+          }
         }
       }
     ],
@@ -65,6 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Statistics/Probability/Probabilities Properties.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -82,17 +87,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "62031217ed269ffe",
+  "active": "8e28889761d4d46e",
   "lastOpenFiles": [
-    "Statistics/Statistical Algorithms.md",
+    "Statistics/Probability/Probabilities Properties.md",
+    "ZZPasted images/Pasted image 20220709172720.png",
+    "Statistics/PGM Algorithms/Junction Tree.md",
+    "Mathematics/Discrete mathematics/Graph Theory/Maximum Spanning Tree.md",
+    "Mathematics/Discrete mathematics/Graph Theory/Graph.md",
     "Statistics/PGM Algorithms/Variable Elimination (algorithm).md",
-    "Statistics/PGM Algorithms/Belief propagation.md",
-    "Statistics/Bayesian statistics/Bayesian Network.md",
-    "Statistics/Bayesian statistics/Bayes' Theorem.md",
-    "Statistics/Bayesian statistics/Markov Networks.md",
-    "Statistics/Bayesian statistics/Convert networks.md",
-    "ZZPasted images/Pasted image 20220707183411.png",
-    "Mathematics/Discrete mathematics/Graph Theory/Glossary of Graph Theory.md",
-    "Statistics/Probability/Probabilistic Graphical Models.md"
+    "Statistics/Probability/Probabilistic Graphical Models.md",
+    "ZZPasted images/Pasted image 20220709163144.png",
+    "Statistics/PGM Algorithms/Inference in HMMs.md",
+    "Statistics/PGM Algorithms/Belief propagation.md"
   ]
 }

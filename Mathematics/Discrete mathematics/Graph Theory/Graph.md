@@ -12,6 +12,3 @@ A subset of of vertices of an [[Glossary of Graph Theory#Undirected|undirected]]
 ![[Pasted image 20220703201222.png|400]]
 
 Cliques in blue.
-
-# Types
-## Directed Acyclic Graph (DAG)

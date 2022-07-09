@@ -4,3 +4,9 @@ By using [[Graph|graphs]] we can encode a  high-dimensional probability distribu
 There are different kind of networks used:
 * [[Bayesian Network]]
 * [[Markov Networks]]
+
+The set of algorithms:
+* [[Belief propagation]]
+* [[Inference in HMMs]]
+* [[Junction Tree]]
+* [[Variable Elimination (algorithm)]]
