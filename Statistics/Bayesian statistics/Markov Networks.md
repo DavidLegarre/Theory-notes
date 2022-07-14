@@ -24,9 +24,18 @@ A graph $G$ is a $D$-map (dependency-map) of probability distribution $P$ if:
 $$
 I(P)\subseteq I(G)
 $$
+A graph **with no edges** is a trivial $D$-map for any probability distribution
+
 ### I-maps
 A graph $G$ is an $I$-map (Independency-map) of probability distribution $P$ if:
 $$
 I(G)\subseteq I(P)
 $$
+The **complete graph** is a trivial $I$-map for any probability distribution
+
 ![[Pasted image 20220708190325.png]]
+
+
+## Independence with Markov Networks
+
+![[Pasted image 20220710164052.png]]
