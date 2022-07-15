@@ -3,5 +3,8 @@
     "centerImg"
   ],
   "cssTheme": "Atom",
-  "theme": "obsidian"
+  "theme": "obsidian",
+  "textFontFamily": "Times New Roman",
+  "monospaceFontFamily": "Times New Roman",
+  "baseFontSize": 17
 }

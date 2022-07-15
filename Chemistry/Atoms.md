@@ -1,4 +1,7 @@
 # Atoms
+
+Connects to: [[Periodic Table]], [[Chemical Bonds]]
+
 Any substance in the universe that has mass and occupies space is defined as **matter**. All matter is composed of extremely small particles called **atoms**.
 
 ## Bohr Atomic model

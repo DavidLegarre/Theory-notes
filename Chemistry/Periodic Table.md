@@ -1,6 +1,8 @@
 # Periodic Table
-[link](https://www.google.com/search?q=periodic+table&oq=periodic+table&aqs=chrome..69i57j69i60.1419j0j1&sourceid=chrome&ie=UTF-8) 
 
+Connects to: [[Atoms]]
+
+[link](https://www.google.com/search?q=periodic+table&oq=periodic+table&aqs=chrome..69i57j69i60.1419j0j1&sourceid=chrome&ie=UTF-8) 
 ![[Pasted image 20220714170501.png]]
 
 The elements exhibit a pattern of chemical properties that repeats itself in groups of eight. This periodically repeating pattern lent the table its name: the periodic table of the elements.
