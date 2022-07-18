@@ -1,4 +1,6 @@
 # ElGamal 
+Connects to: [[Encryption schema properties]]
+
 ## Keygen
 1. On an input security parameter $\lambda$, choose a cyclic group $G$ of prime order $p$, and a generator $g$ of $G$.  Choosing $p\ s.t.\ p=2q+1$ where $q$ is a prime number. 
 2. With $|G|=q$

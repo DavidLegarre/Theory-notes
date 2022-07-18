@@ -2,9 +2,9 @@
   "enabledCssSnippets": [
     "centerImg"
   ],
-  "cssTheme": "Atom",
+  "cssTheme": "Things",
   "theme": "obsidian",
-  "textFontFamily": "Times New Roman",
-  "monospaceFontFamily": "Times New Roman",
-  "baseFontSize": 17
+  "textFontFamily": "",
+  "monospaceFontFamily": "",
+  "baseFontSize": 16
 }
