@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Cryptography/Encryption schemas/Encryption schema properties.md",
+            "file": "Cryptography/Cryptography Course.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Cryptography/Encryption schemas/Encryption schema properties.md",
+                "file": "Cryptography/Cryptography Course.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -84,20 +84,19 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "active": "f222e240562b0a61",
   "lastOpenFiles": [
-    "Mathematics/Abstract/Algorithms.md",
-    "Cryptography/Encryption schemas/Encryption schema properties.md",
-    "Cryptography/Encryption schemas/Elgamal.md",
-    "Cryptography/Encryption schemas/AES.md",
-    "Cryptography/Cryptographic definitions.md",
-    "Cryptography/CPA.md",
-    "Cryptography/Diffie–Hellman.md",
-    "Cryptography/CCA.md",
     "Cryptography/Secret Sharing.md",
-    "Biomedicine/Anatomy/The Cell.md"
+    "Cryptography/Number Theory/Euclidean Algorithm.md",
+    "Cryptography/Number Theory/Chinese Remainder Theorem (C.R.T).md",
+    "Cryptography/Encryption schemas/Encryption schema properties.md",
+    "Cryptography/Cryptographic definitions.md",
+    "Cryptography/Cryptography Course.md",
+    "Cryptography/Number Theory/Modular arithmetic.md",
+    "Examples/Math/Example Euclidean Algorithm.md",
+    "Cryptography/Number Theory/Group Theory.md",
+    "Cryptography/Number Theory/Negative modulo number.md"
   ]
 }

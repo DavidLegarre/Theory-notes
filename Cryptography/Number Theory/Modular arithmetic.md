@@ -1,10 +1,37 @@
 # Modular arithmetic
-![[Pasted image 20220604213817.png]]
+
+Connects to: [[Euclidean Algorithm]], [[Group Theory]], [[Negative modulo number]] 
+
+## Divisibility
+```ad-summary
+title:Definition
+
+Let $a$ and $b$ be integers with $b\not=0$. We say that $b$ *divides* $a$, or that $a$ is *divisible* by $b$:
+
+$$
+\exists\ c,\ a=bc
+$$
+
+We denote this relation as $b\mid a$ read as: "$b$ divides $a$". On the other hand $b\not\mid a$
+```
+
+``` ad-summary
+title: Definition
+
+A *common divisor* of two integers is $a$ and $b$ is a positive integer $d$ that divides both of them. The *greatest common divisor* $gcd$ of $a$ and $b$ is the largest positive integer $d$ $s.t.$ $d\mid a$ and $d\mid b$. 
+
+$$
+d=gcd(a)
+$$
+``` 
+
+We calculate this $gcd$ by using the [[Euclidean Algorithm]]. 
 
 ## Congruence
+
 Given an integer $n>1$ called a **modulus**, two integers *a* and *b* are said to be **congruent** modulo *n*, if n is a divisor of their difference (if: $(a-b) mod\ n=0$). Represented as
 $$
-a\equiv B\mod n
+a\equiv b\mod n
 $$
 ### Properties
 $$
