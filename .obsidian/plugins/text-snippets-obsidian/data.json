@@ -1,0 +1,17 @@
+{
+  "snippets_file": "snippets : It is an obsidian plugin, that replaces your selected text.\nch : $\\ce{$end$}$\n\ndef : ```ad-summary $nl$\ntitle:Defintion $nl$\n$end$\n```",
+  "snippets": [
+    "snippets : It is an obsidian plugin, that replaces your selected text.",
+    "ch : $\\ce{$end$}$",
+    "def : ```ad-summary $nl$\ntitle:Defintion $nl$\n$end$",
+    "```"
+  ],
+  "endSymbol": "$end$",
+  "newlineSymbol": "$nl$",
+  "stopSymbol": "$tb$",
+  "pasteSymbol": "$pst$",
+  "useTab": true,
+  "useSpace": false,
+  "wordDelimiters": "$()[]{}<>,.!?;:'\"\\/",
+  "isWYSIWYG": true
+}

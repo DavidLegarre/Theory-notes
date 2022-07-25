@@ -14,3 +14,7 @@ The strength of a covalent bond depends on the number of shared electrons.
 
 ## Polar and nonpolar covalent bonds
 Atoms differ in their affinity for electrons, a property called **electronegativity**. In general, electronegativity increases left to right across a row of the periodic table and decreases down the column
+
+For bonds between two *identical* atoms, the electrons are equally shared. Such bonds are termed **nonpolar**. The resulting compound $\ce{H_2}$ or $\ce{O_2}$.
+
+For [[atoms]] that differ greatly in [[Electronegativity]] 
