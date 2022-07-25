@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "f222e240562b0a61",
+        "id": "7ebde71e2324f9f8",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Chemistry/electrons.md",
+            "file": "Biomedicine/Chemistry/Periodic table/Nonmetals.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Chemistry/electrons.md",
+                "file": "Biomedicine/Chemistry/Periodic table/Nonmetals.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -86,17 +86,17 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "f222e240562b0a61",
+  "active": "7ebde71e2324f9f8",
   "lastOpenFiles": [
-    "Chemistry/Periodic Table.md",
-    "Chemistry/Atoms.md",
-    "Chemistry/Chemical Bonds.md",
-    "Chemistry/electrons.md",
-    "Chemistry/Electronegativity.md",
-    "Chemistry/Covalent Bonds.md",
-    "Biomedicine/Anatomy/The Cell.md",
-    "Cryptography/Cryptography Course.md",
-    "Cryptography/Secret Sharing.md",
-    "Cryptography/Number Theory/Euclidean Algorithm.md"
+    "Biomedicine/Chemistry/Periodic table/Periodic Table.md",
+    "Biomedicine/Chemistry/Elements/carbon.md",
+    "Biomedicine/Chemistry/Periodic table/allotropes.md",
+    "Biomedicine/Chemistry/Basic/Electrons.md",
+    "Biomedicine/Chemistry/Basic/Atoms.md",
+    "Biomedicine/Biology/Biomolecules/Carbohydrates.md",
+    "tetravalent.md",
+    "E.md",
+    "Biomedicine/Biology/Biomolecule.md",
+    "Biomedicine/Biology/Biological processes/morphogenesis.md"
   ]
 }

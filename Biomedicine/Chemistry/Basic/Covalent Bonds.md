@@ -17,4 +17,4 @@ Atoms differ in their affinity for electrons, a property called **electronegativ
 
 For bonds between two *identical* atoms, the electrons are equally shared. Such bonds are termed **nonpolar**. The resulting compound $\ce{H_2}$ or $\ce{O_2}$.
 
-For [[atoms]] that differ greatly in [[Electronegativity]] 
+For [[Atoms]] that differ greatly in [[Electronegativity]], [[Electrons]] are not shared equally. The shared electrons are more likely to be closer to the atom of lower [[Electronegativity]]. This unequal distribution results in regions of partial negative charge near the more electronegative atom, and regions of partial positive charge near the less electronegative atom. Such bonds are termed **polar covalent bonds**. 

@@ -10,7 +10,7 @@ The Bohr atomic model proposes that every atom is formed by a nuclei that has an
 
 ## Atomic number
 Different atoms are defined by the number of protons, a quantity called *atomic number*. Atoms with the same atomic number (that is, the same number of protons) have the same chemical properties and are said to belong to the same element. Formally speaking, an *element* is any substance that cannot be broken down to any other substance by ordinary chemical means.
-Within the nucleus, the cluster of protons and neutrons is held together by a force that works only over short, subatomic distances. Each proton carries a positive ($+$) charge, and each neutron has no charge. Each [[electrons|electron]] carries a negative ($-$) charge. 
+Within the nucleus, the cluster of protons and neutrons is held together by a force that works only over short, subatomic distances. Each proton carries a positive ($+$) charge, and each neutron has no charge. Each [[Electrons|electron]] carries a negative ($-$) charge. 
 Typically, an atom has one electron for each proton and is thus electrically neutral. The chemical behavior of an atom is due to the number and configuration of the electrons.
 
 ## Atomic mass 

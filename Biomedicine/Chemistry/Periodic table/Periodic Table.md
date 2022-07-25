@@ -19,3 +19,4 @@ $$
 \ce{C,H,O,N,P,S,Na,K,Ca,Mg,Fe,Cl}
 $$
 Are found in living systems in more than trace amounts ($0.01\%$ or higher). These elements all have atomic numbers less than 21, and thus, have low atomic masses. Of these 12, the first 4 elements constitute $96\%$ of the weight of the human body. The majority of the molecules that make up a human body, other than water, are compounds of carbon, which are called *organic compounds*. 
+

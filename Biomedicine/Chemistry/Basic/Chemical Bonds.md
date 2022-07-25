@@ -13,3 +13,4 @@ A group of atoms held together by energy in a stable association is called *mole
 
 <p style="text-align:center;">Example of ionic bond</p>
 
+

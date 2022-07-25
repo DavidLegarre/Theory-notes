@@ -8,13 +8,6 @@
   "collapse-color-groups": false,
   "colorGroups": [
     {
-      "query": "path:Biology",
-      "color": {
-        "a": 1,
-        "rgb": 2068224
-      }
-    },
-    {
       "query": "path:\"Computer Science\"",
       "color": {
         "a": 1,
@@ -29,13 +22,6 @@
       }
     },
     {
-      "query": "path:Chemistry",
-      "color": {
-        "a": 1,
-        "rgb": 2943067
-      }
-    },
-    {
       "query": "path:Mathematics",
       "color": {
         "a": 1,
@@ -46,7 +32,21 @@
       "query": "path:Cryptography",
       "color": {
         "a": 1,
-        "rgb": 13500226
+        "rgb": 16743234
+      }
+    },
+    {
+      "query": "path:Biomedicine/Chemistry",
+      "color": {
+        "a": 1,
+        "rgb": 12247122
+      }
+    },
+    {
+      "query": "path:Biomedicine/Biology",
+      "color": {
+        "a": 1,
+        "rgb": 587600
       }
     }
   ],
@@ -60,6 +60,6 @@
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 0.584358118056758,
+  "scale": 0.5843581180567582,
   "close": true
 }
