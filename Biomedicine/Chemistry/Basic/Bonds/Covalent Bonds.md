@@ -18,3 +18,7 @@ Atoms differ in their affinity for electrons, a property called **electronegativ
 For bonds between two *identical* atoms, the electrons are equally shared. Such bonds are termed **nonpolar**. The resulting compound $\ce{H_2}$ or $\ce{O_2}$.
 
 For [[Atoms]] that differ greatly in [[Electronegativity]], [[Electrons]] are not shared equally. The shared electrons are more likely to be closer to the atom of lower [[Electronegativity]]. This unequal distribution results in regions of partial negative charge near the more electronegative atom, and regions of partial positive charge near the less electronegative atom. Such bonds are termed **polar covalent bonds**. 
+
+## How is a polar covalent bond different from an ionic bond?
+
+An [[ionic bond]] is an attraction between ions of opposite charge in a ionic compound. A covalent bound is formed when two atoms share one or more pairs of electrons. Complex biological compounds are formed in large part by atoms that can form one or more covalent bonds. **A polar covalent bond is formed by unequal sharing of electrons**. Nonpolar bonds exhibit equal sharing of electrons. 

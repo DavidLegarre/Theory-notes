@@ -2,7 +2,7 @@
 A biomolecule is a loosely used term for [[molecules]] present in [[organisms]] that are essential to 
 one or more [[Biological processes]], such as [[cell division]], [[morphogenesis]], etc.
 
-Biomolecules include large macromolecules such as: [[proteins]], [[Carbohydrates]], [[lipids]], and 
+Biomolecules include large macromolecules such as: [[Protein]], [[Carbohydrates]], [[lipids]], and 
 [[nucleic acids]]. 
 
 ![[Pasted image 20220725194513.png]]

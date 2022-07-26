@@ -33,3 +33,12 @@ Most of the rest of the naturally occurring carbon is carbon-13, an isotope with
 
 The rarest carbon isotope is carbon-14, with eight neutrons. The rarest carbon isotope is carbon-14, with eight neutrons. Unlike the other two isotopes, $\ce{^{14}C}$ is **unstable**: This means that its nucleus tends to break up into elements with lower atomic numbers. This nuclear breakup, which emits with lower atomic numbers. This nuclear breakup, which emits a significant amount of energy, is called radioactive decay, and isotopes that decay in this fashion are **radioactive isotopes**. For any same isotope the rate of decay is constant, expressed as *half-life*, the time it takes for one-half of the atoms in a sample to decay. 
 
+## Polarity 
+
+```ad-summary 
+title:Defintion 
+
+A seperation of electric charge leading to a molecule having an electric dipole moment, with a negatively charged end an positively charged end. 
+```
+![[Pasted image 20220726205643.png]]
+A [[Water]] molecule, a commonly used example of polarity. Two charges are present with a negative charge in the middle (red shade), and a positive charge at the ends (blue shade).
