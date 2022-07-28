@@ -32,3 +32,20 @@ The [[Atoms#Polarity|polarity]] of water causes it to be attracted to other pola
 ```
 
 Water adheres to any substance with which it can form
+
+# Properties of Water
+* **Cohesion**: Hydrogen bonds hold water molecules together 
+	* Leaves pull water upward from the roots; seeds swell and germinate
+	
+* **High specific heat**: Hydrogen bonds absorb heat when they break and release heat when they form, minimizing temperature changes
+	* Water stabilizes the temperature of organisms and the environment
+	
+* **High heat of vaporization**: Many hydrogen bonds must be broken for water to evaporate
+	* Evaporation of water cools body surfaces
+	
+* **Lower density of ice**: Water molecules in an ice crystal are spaced relatively far apart because of hydrogen bonding
+	* Because ice is less dense than water, lakes do not freeze solid, allowing fish and other life forms in lakes to survive winter
+	
+* **Solubility**: Polar water molecules are attracted to ions and polar compounds, making these compounds soluble
+	* Many kinds of molecules can move freely in cells, permitting a diverse array of chemical reactions
+

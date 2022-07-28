@@ -10,6 +10,6 @@
   "readableLineLength": true,
   "strictLineBreaks": false,
   "showFrontmatter": false,
-  "showLineNumber": false,
+  "showLineNumber": true,
   "rightToLeft": false
 }
