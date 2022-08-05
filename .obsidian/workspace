@@ -4,6 +4,7 @@
     "type": "split",
     "children": [
       {
+<<<<<<< HEAD
         "id": "8a83b241fd34096f",
         "type": "leaf",
         "state": {
@@ -13,6 +14,13 @@
             "mode": "source",
             "source": false
           }
+=======
+        "id": "90b3526242f8f078",
+        "type": "leaf",
+        "state": {
+          "type": "empty",
+          "state": {}
+>>>>>>> d607f12 (vault backup: 2022-08-05 12:58:18)
         }
       }
     ],
@@ -69,7 +77,10 @@
             "state": {
               "type": "backlink",
               "state": {
+<<<<<<< HEAD
                 "file": "Mathematics/Calculus/Functions.md",
+=======
+>>>>>>> d607f12 (vault backup: 2022-08-05 12:58:18)
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -87,6 +98,7 @@
     "width": 300,
     "collapsed": true
   },
+<<<<<<< HEAD
   "active": "8a83b241fd34096f",
   "lastOpenFiles": [
     "Mathematics/Discrete mathematics/Group Theory/Image (Function).md",
@@ -99,5 +111,19 @@
     "Biomedicine/Chemistry/Basic/Molecules/Acids and Bases.md",
     "Biomedicine/Chemistry/Molecules/Water.md",
     "Biomedicine/Chemistry/Basic/Atoms/Atoms.md"
+=======
+  "active": "2a0ac3bd029ca9f7",
+  "lastOpenFiles": [
+    "Videogames/CCG/CCG Glossary.md",
+    "Videogames/CCG/Legends Of Runeterra (LOR)/Game Theory (LOR).md",
+    "Biomedicine/Chemistry/Molecules/Water.md",
+    "Biomedicine/Chemistry/Basic/Atoms/Atoms.md",
+    "Biomedicine/Chemistry/Basic/Atoms/Electrons.md",
+    "Biomedicine/Chemistry/Basic/Atoms/Electronegativity.md",
+    "Biomedicine/Biology/Biomolecules/Protein.md",
+    "Biomedicine/Chemistry/Basic/Bonds/hydrogen bonds.md",
+    "Biomedicine/Chemistry/Elements/Oxygen.md",
+    "Biomedicine/Chemistry/Basic/Bonds/Chemical Bonds.md"
+>>>>>>> d607f12 (vault backup: 2022-08-05 12:58:18)
   ]
 }

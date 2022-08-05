@@ -36,17 +36,17 @@
       }
     },
     {
-      "query": "path:Biomedicine/Chemistry",
-      "color": {
-        "a": 1,
-        "rgb": 12247122
-      }
-    },
-    {
-      "query": "path:Biomedicine/Biology",
+      "query": "path:Biomedicine",
       "color": {
         "a": 1,
         "rgb": 587600
+      }
+    },
+    {
+      "query": "path:Videogames",
+      "color": {
+        "a": 1,
+        "rgb": 15986925
       }
     }
   ],
@@ -60,6 +60,10 @@
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
+<<<<<<< HEAD
   "scale": 0.5843581180567573,
+=======
+  "scale": 0.5843581180567589,
+>>>>>>> d607f12 (vault backup: 2022-08-05 12:58:18)
   "close": true
 }
