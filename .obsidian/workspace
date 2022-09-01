@@ -4,23 +4,15 @@
     "type": "split",
     "children": [
       {
-<<<<<<< HEAD
-        "id": "8a83b241fd34096f",
+        "id": "90b3526242f8f078",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Mathematics/Calculus/Functions.md",
+            "file": "Computer Science/Big Data/AWS/Cloud practitioner/Cloud Computing.md",
             "mode": "source",
             "source": false
           }
-=======
-        "id": "90b3526242f8f078",
-        "type": "leaf",
-        "state": {
-          "type": "empty",
-          "state": {}
->>>>>>> d607f12 (vault backup: 2022-08-05 12:58:18)
         }
       }
     ],
@@ -61,7 +53,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "d9938b13a8a53c8e",
@@ -77,10 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-<<<<<<< HEAD
-                "file": "Mathematics/Calculus/Functions.md",
-=======
->>>>>>> d607f12 (vault backup: 2022-08-05 12:58:18)
+                "file": "Computer Science/Big Data/AWS/Cloud practitioner/Cloud Computing.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,32 +88,17 @@
     "width": 300,
     "collapsed": true
   },
-<<<<<<< HEAD
-  "active": "8a83b241fd34096f",
+  "active": "90b3526242f8f078",
   "lastOpenFiles": [
-    "Mathematics/Discrete mathematics/Group Theory/Image (Function).md",
-    "Mathematics/Discrete mathematics/Untitled.md",
-    "Statistics/Probability theory/random variable.md",
-    "Mathematics/Calculus/Functions.md",
-    "Statistics/Probability theory/expected value.md",
-    "Statistics/Statistical learning.md",
-    "Statistics/Bayesian statistics/Bayesian analysis.md",
-    "Biomedicine/Chemistry/Basic/Molecules/Acids and Bases.md",
-    "Biomedicine/Chemistry/Molecules/Water.md",
-    "Biomedicine/Chemistry/Basic/Atoms/Atoms.md"
-=======
-  "active": "2a0ac3bd029ca9f7",
-  "lastOpenFiles": [
-    "Videogames/CCG/CCG Glossary.md",
+    "Computer Science/Big Data/AWS/Cloud practitioner/Client-server model.md",
+    "conflict-files-obsidian-git.md",
     "Videogames/CCG/Legends Of Runeterra (LOR)/Game Theory (LOR).md",
+    "Videogames/CCG/CCG Glossary.md",
     "Biomedicine/Chemistry/Molecules/Water.md",
     "Biomedicine/Chemistry/Basic/Atoms/Atoms.md",
     "Biomedicine/Chemistry/Basic/Atoms/Electrons.md",
     "Biomedicine/Chemistry/Basic/Atoms/Electronegativity.md",
     "Biomedicine/Biology/Biomolecules/Protein.md",
-    "Biomedicine/Chemistry/Basic/Bonds/hydrogen bonds.md",
-    "Biomedicine/Chemistry/Elements/Oxygen.md",
-    "Biomedicine/Chemistry/Basic/Bonds/Chemical Bonds.md"
->>>>>>> d607f12 (vault backup: 2022-08-05 12:58:18)
+    "Biomedicine/Chemistry/Basic/Bonds/hydrogen bonds.md"
   ]
 }
