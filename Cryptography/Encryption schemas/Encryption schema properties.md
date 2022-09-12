@@ -1,5 +1,5 @@
 # Encryption schema properties
-An encryption schema is composed by three [[Mathematics/Abstract/Algorithms|algorithms]]: KeyGen, Enc, and Dec:
+An encryption schema is composed by three [[Algorithms|algorithms]]: KeyGen, Enc, and Dec:
 $$
 \begin{align*}
 m&\underset{Enc_{k}}{\to}c\\

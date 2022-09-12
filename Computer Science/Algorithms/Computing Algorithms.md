@@ -1,0 +1,31 @@
+# Computing [[Algorithms]]
+## Searching algorithms
+* [[Linear search]]
+* [[Binary search]]
+* [[Depth first search]]
+* [[Breadth first search]]
+## Sorting algorithms
+* [[Insertion sort]]
+* [[Heap sort]]
+* [[Selection sort]]
+* [[Merge sort]]
+* [[Quick sort]]
+* [[Counting sort]]
+## Graph algorithms
+* [[Kruskal's algorithm]]
+* [[Dijkstra's algorithm]]
+* [[Bellman Ford algorithm]]
+* [[Floyd Warshall algorithm]] 
+* [[Topological sort algorithm]]
+* [[Flood Fill algorithm]]
+* [[Lee algorithm]]
+## Array algorithms
+* [[Kadane's algorithm]]
+* [[Floyd's cycle detection algorithm]]
+* [[KMP algorithm]]
+* [[Quick select algorithm]]
+* [[Boyer-More majoritvy vote algorithm]]
+## Basics
+* [[Huffman Coding Compression algorithm]]
+* [[Euclids algorithm]]
+* [[Union find algorithm]]
