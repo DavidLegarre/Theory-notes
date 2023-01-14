@@ -1,4 +1,4 @@
-# [[Probability]] properties
+[[Probability]] properties
 ## Marginal probability
 $$
 P(x=a_{i})\equiv\sum\limits_{y\in A_y}P(x=a_{i},y)

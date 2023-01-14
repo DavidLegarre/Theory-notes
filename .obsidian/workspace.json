@@ -1,0 +1,158 @@
+{
+  "main": {
+    "id": "1f32f240c56ea743",
+    "type": "split",
+    "children": [
+      {
+        "id": "168d29ae360052b3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "96694db3fc95df7f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Mathematics/Cryptography/Introduction to Cryptography.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b0d269b61b8596ef",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Mathematics/Discrete mathematics/Logic/Logical Operations/Exclusive OR (XOR).md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "be5af0e8542760c1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Mathematics/Cryptography/Encryption schemas/One-Time-Pad.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "5979af2b40fc0fd9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ZZLatexAndObsidian/Latex Symbols.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "161714a60567771f",
+    "type": "split",
+    "children": [
+      {
+        "id": "cd19ae7120bf4743",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2a0ac3bd029ca9f7",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "877fc1cbefbce90e",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "d9938b13a8a53c8e",
+    "type": "split",
+    "children": [
+      {
+        "id": "82157a1a766ef4f5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "994fadee66415e43",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "ZZLatexAndObsidian/Latex Symbols.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "command-palette:Open command palette": false,
+      "markdown-importer:Open format converter": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
+    }
+  },
+  "active": "5979af2b40fc0fd9",
+  "lastOpenFiles": [
+    "Mathematics/Cryptography/Encryption schemas/One-Time-Pad.md",
+    "Mathematics/Cryptography/Encryption schemas/Caesar's cipher.md",
+    "Mathematics/Cryptography/Introduction to Cryptography.md",
+    "Mathematics/Discrete mathematics/Group Theory/Image (Function).md",
+    "Mathematics/Discrete mathematics/Logic/Logical Operations/Exclusive OR (XOR).md",
+    "Computer Science/Algorithms/Algorithms.md",
+    "Computer Science/Algorithms/Simple Algorithms Complexity.md",
+    "Mathematics/Cryptography/Encryption schemas/Encryption schema properties.md",
+    "Mathematics/Cryptography/Symmetric Encryption.md",
+    "Mathematics/Map of mathematics.md"
+  ]
+}
