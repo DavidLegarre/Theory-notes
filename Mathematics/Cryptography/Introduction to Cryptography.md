@@ -8,11 +8,16 @@
 
 The way to achieve this is through a natural number that we call the _security parameter_, usually denoted by $\lambda$. The information about both security and efficiency will be expressed in terms of the security parameter.
 
+## Security Level 
+
+```ad-abstract
+A cryptographic scheme has $n$-bit security if the best known attack requires $2^n$ steps. When the best known attack is a brute-force attack, then $n=\lambda$.
+```
+
 ## Types of Encryption
  1. [[Symmetric Encryption]]
- 2. 
 
 ## Encryption Schemes
-* [[Caesar's cipher]]
+* [[Shift cipher (Caesar's)]]
 * [[One-Time-Pad]]
-* 
+* [[Block Ciphers]]

@@ -23,3 +23,9 @@ If, on the other hand, it satisfies that $f(-x)=-f(x)$, then it is called an **o
 $$
 f(-x)=(-x)^{2}=-x^{3}=-f(x)
 $$
+
+# Types of functions
+
+* [[Exponential]]
+* [[Logarithms]]
+* 
