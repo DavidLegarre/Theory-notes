@@ -4,34 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "e51164b8948df1ae",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "be5af0e8542760c1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Mathematics/Cryptography/Block Ciphers.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          }
-        ]
-      },
-      {
         "id": "168d29ae360052b3",
         "type": "tabs",
         "children": [
           {
-            "id": "96694db3fc95df7f",
+            "id": "dcad6a6d1ce5a757",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          },
+          {
+            "id": "1d14d618219f800f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mathematics/Cryptography/Introduction to Cryptography.md",
+                "file": "Computer Science/Languages/Python/Data Structures/Lists.md",
                 "mode": "source",
                 "source": false
               }
@@ -95,7 +85,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mathematics/Cryptography/Block Ciphers.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,6 +93,14 @@
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
               }
+            }
+          },
+          {
+            "id": "c55766848e2f1b25",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
             }
           }
         ]
@@ -120,20 +117,21 @@
       "canvas:Create new canvas": false,
       "command-palette:Open command palette": false,
       "markdown-importer:Open format converter": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "templates:Insert template": false
     }
   },
-  "active": "be5af0e8542760c1",
+  "active": "dcad6a6d1ce5a757",
   "lastOpenFiles": [
+    "Computer Science/Languages/Python/Strings.md",
+    "Computer Science/Languages/Python/Data Structures/Lists.md",
+    "Computer Science/Languages/Python.md",
+    "Computer Science/Languages/Solid.md",
+    "Computer Science/Languages/Python/Special methods.md",
     "Mathematics/Cryptography/Introduction to Cryptography.md",
-    "Mathematics/Cryptography/Block Ciphers.md",
-    "Untitled.md",
-    "Mathematics/Calculus/Functions/Exponential.md",
-    "ZZPasted images/Pasted image 20230116192814.png",
-    "Mathematics/Cryptography/Symmetric Encryption.md",
-    "Mathematics/Cryptography/Secret Sharing.md",
-    "Mathematics/Calculus/Functions/Logarithms.md",
-    "Mathematics/Cryptography/Encryption schemas/One-Time-Pad.md",
-    "Mathematics/Discrete mathematics/Logic/Logical Operations/Exclusive OR (XOR).md"
+    "Computer Science/Algorithms/Searching algorithms/Depth first search.md",
+    "Computer Science/Algorithms/Searching algorithms/Linear search.md",
+    "ZZLatexAndObsidian/latex symbols.pdf",
+    "Computer Science/Algorithms/Searching algorithms/Binary search.md"
   ]
 }

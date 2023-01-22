@@ -2,6 +2,20 @@
 
 Connects to: [[Euclidean Algorithm]], [[Group Theory]], [[Negative modulo number]] 
 
+```ad-abstract
+We write the set of integers as:
+
+$$
+\mathbb{Z}=\{\ldots,-2,-1,0,1,2,\ldots\}
+$$
+
+and the set of natural numbers (nonnegative integers) as:
+
+$$
+\mathbb{N}=\{0,1,2,\ldots\}
+$$
+```
+
 ## Divisibility
 ```ad-summary
 title:Definition
@@ -27,12 +41,21 @@ $$
 
 We calculate this $gcd$ by using the [[Euclidean Algorithm]]. 
 
+```ad-abstract
+For positive $n$, we write: $\mathbb{Z}_{n}=\{0,\ldots, n-1\}$ to denote the set of integers $\mod n$
+```
+
+
 ## Congruence
 
 Given an integer $n>1$ called a **modulus**, two integers *a* and *b* are said to be **congruent** modulo *n*, if n is a divisor of their difference (if: $(a-b) mod\ n=0$). Represented as
 $$
 a\equiv b\mod n
 $$
+
+![[Pasted image 20230119191106.png]]
+
+
 ### Properties
 $$
 \begin{aligned}

@@ -1,4 +1,4 @@
-# Computing [[Algorithms]]
+# Computing [[Computer Science/Algorithms/Algorithms]]
 ## Searching algorithms
 * [[Linear search]]
 * [[Binary search]]

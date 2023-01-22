@@ -1,6 +1,6 @@
 # Euclidean Algorithm
 
-Connects to: [[Modular arithmetic]], [[Algorithms]]
+Connects to: [[Modular arithmetic]], [[Computer Science/Algorithms/Algorithms]]
 Examples: [[Example Euclidean Algorithm]]
 
 ```ad-note
@@ -33,4 +33,4 @@ $$
 Always has a solution for the integers $x$ and $y$.
 ```
 
-To find these solution, see [[Example Euclidean Algorithm|EEA]].
+![[Pasted image 20230119190513.png]]

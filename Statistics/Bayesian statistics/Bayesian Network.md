@@ -26,7 +26,7 @@ This factorization represents a probability distribution $\to$ all values are po
 Each variable is conditionally independent of all its non-descendants in the graph given the value of all of its parents
 
 # D-separation algorithm
-Is an [[Algorithms|algorithm]] that given an evidence set $E$ and two non-overlapping subsets of variables $A$ and $B$, it returns us whether $A\perp B|C$ holds or not.
+Is an [[Computer Science/Algorithms/Algorithms|algorithm]] that given an evidence set $E$ and two non-overlapping subsets of variables $A$ and $B$, it returns us whether $A\perp B|C$ holds or not.
 
 We know a path is blocked if:
 

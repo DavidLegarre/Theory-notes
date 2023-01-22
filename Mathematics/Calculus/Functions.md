@@ -24,6 +24,20 @@ $$
 f(-x)=(-x)^{2}=-x^{3}=-f(x)
 $$
 
+## Function types
+
+Let $X$ and $Y$ be finite sets. A functions $f\ :\ X\to Y$ is:
+
+* **Injective**: If it maps distinct inputs to distinct outputs in 1-to-1 manner, then we have $|Y|\geq|X|$:$$ x\not=x'\to f(x)\not=f(x')$$
+![[Pasted image 20230119192010.png|200]]
+
+* **Surjective**: If for every element in $Y$ is a possible output of $f$, then we have $|Y|\leq|X|$. $$
+  \forall\ y\in Y, \exists\ x\in X \quad f(x)=y$$
+  ![[Pasted image 20230119192129.png|250]]
+  **Bijective**: If $f$ is both injective and surjective, then we have $|X|=|Y|$.
+  ![[Pasted image 20230119192154.png|200]]
+
+
 # Types of functions
 
 * [[Exponential]]
