@@ -11,8 +11,12 @@
             "id": "dcad6a6d1ce5a757",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Computer Science/Languages/Python/PEP8.md",
+                "mode": "source",
+                "source": false
+              }
             }
           },
           {
@@ -85,6 +89,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Computer Science/Languages/Python/PEP8.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +108,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -123,15 +129,15 @@
   },
   "active": "dcad6a6d1ce5a757",
   "lastOpenFiles": [
-    "Computer Science/Languages/Python/Strings.md",
     "Computer Science/Languages/Python/Data Structures/Lists.md",
+    "Computer Science/Languages/Python/PEP8.md",
     "Computer Science/Languages/Python.md",
+    "Computer Science/Languages/Python/Strings.md",
     "Computer Science/Languages/Solid.md",
     "Computer Science/Languages/Python/Special methods.md",
     "Mathematics/Cryptography/Introduction to Cryptography.md",
     "Computer Science/Algorithms/Searching algorithms/Depth first search.md",
     "Computer Science/Algorithms/Searching algorithms/Linear search.md",
-    "ZZLatexAndObsidian/latex symbols.pdf",
-    "Computer Science/Algorithms/Searching algorithms/Binary search.md"
+    "ZZLatexAndObsidian/latex symbols.pdf"
   ]
 }

@@ -1,3 +1,4 @@
+[[PEP8|Formatting guide]]
 
 ## Variable types
 * [[Strings]]
