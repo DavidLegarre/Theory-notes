@@ -14,10 +14,29 @@ The way to achieve this is through a natural number that we call the _security 
 A cryptographic scheme has $n$-bit security if the best known attack requires $2^n$ steps. When the best known attack is a brute-force attack, then $n=\lambda$.
 ```
 
+## Confusion and Diffusion
+
+```ad-abstract
+title:Confusion
+**Confusion**: each bit of the ciphertext depends on several parts of the key. In the other words, the relation between key and ciphertext must not be clear to any attacker
+```
+
+```ad-abstract
+title: Diffusion
+
+```
+
+## Security
+
+* [[CPA Security]]
+* [[CCA Security]]
+
 ## Types of Encryption
+
  1. [[Symmetric Encryption]]
 
 ## Encryption Schemes
+
 * [[Shift cipher (Caesar's)]]
 * [[One-Time-Pad]]
 * [[Block Ciphers]]
