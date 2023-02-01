@@ -8,61 +8,18 @@
         "type": "tabs",
         "children": [
           {
-            "id": "04b97e9c5cc098a7",
+            "id": "df2b915d27718dff",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mathematics/Cryptography/Security/CCA Security.md",
+                "file": "Mathematics/Cryptography/Block Ciphers.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ]
-      },
-      {
-        "id": "35957e04aa89cf2e",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "04d3b0fccd596f13",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Mathematics/Cryptography/Introduction to Cryptography.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "0c1e9525d860402e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Mathematics/Cryptography/Security/CPA Security.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6b25d08f8b28ec4a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Computer Science/Algorithms/Computing Algorithms.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          }
-        ],
-        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -120,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mathematics/Cryptography/Security/CCA Security.md",
+                "file": "Mathematics/Cryptography/Block Ciphers.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -158,17 +115,17 @@
       "templates:Insert template": false
     }
   },
-  "active": "04b97e9c5cc098a7",
+  "active": "df2b915d27718dff",
   "lastOpenFiles": [
-    "Mathematics/Cryptography/Security/CPA Security.md",
-    "Mathematics/Cryptography/Security/CCA Security.md",
+    "Mathematics/Cryptography/Security/Symmetric Encryption.md",
     "Mathematics/Cryptography/Introduction to Cryptography.md",
+    "Mathematics/Cryptography/Block Ciphers.md",
+    "Computer Science/Git.md",
+    "Computer Science/Languages/Python.md",
+    "Mathematics/Cryptography/Security/CCA Security.md",
+    "Mathematics/Cryptography/Security/CPA Security.md",
     "Computer Science/Algorithms/Computing Algorithms.md",
     "Computer Science/Algorithms/Searching algorithms/Linear search.md",
-    "Computer Science/Algorithms/Algorithms.md",
-    "Mathematics/Cryptography/Security/Symmetric Encryption.md",
-    "Mathematics/Cryptography/Security/Secret Sharing.md",
-    "Mathematics/Cryptography/Block Ciphers.md",
-    "Mathematics/Cryptography/Encryption schemas/One-Time-Pad.md"
+    "Computer Science/Algorithms/Algorithms.md"
   ]
 }

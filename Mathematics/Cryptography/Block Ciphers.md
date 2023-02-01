@@ -29,10 +29,24 @@ In the case of an image this is the result:
 ### Cipher Block Chaining (CBC) mode
 
 The next way would be to:
+#### Encryption
 $$
-c_{i}=E_{k}(m_{i}\oplus c_{i-1})
+\begin{align*}
+c_{i}&= F_{k}(m_{i}\oplus c_{i-1})\\
+\text{return}&\quad c_{0}||c_{1}||\ldots||c_{\mathcal{l}}
+\end{align*}
 $$
-![[Pasted image 20230118162557.png]]
+
+#### Decryption
+$$
+\begin{align*}
+m_{i}&= F^{-1}_{k}(c_{i})\oplus c_{i-1}\\
+return&\quad m_{1}||\ldots||m_{l}
+\end{align*}
+$$
+
+
+![[Pasted image 20230131003004.png]]
 
 For this we need to define $c_{0}$, to do this we will use *IV* the initialization vector.
 

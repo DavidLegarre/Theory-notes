@@ -5,21 +5,23 @@ The main parts of an encryption are defined as:
 * $c$ (ciphertext): The text that hides $m$
 * $k$ (secret key): The secret key used to encrypt the message
 
-A symmetric encryption scheme always consists of 3 algorithms:
+A **symmetric-key encryption (SKE) scheme** consists of the following algorithms:
 
-1. **KeyGen**: Chooses some random key $k$ of length $\lambda$, according to some probability distribution
-2. **Enc**: Uses the secret key $k$ to encrypt a message $m$, and outputs the encrypted message $c$: 
-$$
-c = Enc_k(m)
-$$
-3. **Dec**: Uses the secret key $k$ to decrypt the ciphertext $c$ and recover the original message:
-$$
-m=Dec_k(c)
-$$
+* **KeyGen**: a randomized algorithm that outputs a **key** $k\in \mathcal{K}$
+* **Enc**: a (possibly randomized) algorithm that takes a key $k\in \mathcal{K}$ and **plaintext** $m\in \mathcal{M}$ as input and outputs a **ciphertext** $c\in \mathcal{C}$
+* **Dec**: a deterministic algorithm that takes a key $k\in \mathcal{K}$ and ciphertext $c\in \mathcal{C}$ as input, and outputs a plaintext $m\in \mathcal{M}$.
+
+We call $\mathcal{K}$ the **key space**, $\mathcal{M}$ the **message space**, and $\mathcal{C}$ the **ciphertext space** of the scheme. Sometimes we refer to the entire scheme (the collection of all three algorithms) by a single variable $\Sigma$. When we do so, we write $\Sigma$.KeyGen, $\Sigma$.Enc, … to refer to its components
+
+
 ## Correctness:
 
-For encryption scheme to be correct it must follow that 
-$$\forall k,m\quad m = Dec_k(Enc_k(m))$$
+An encryption scheme $\Sigma$ satisfies **correctness** if:
+
+$$
+\forall k\in\mathcal{K},m\in \mathcal{M}\quad P[\Sigma.Dec(k,\Sigma.Enc(k,m))=m]=1
+$$
+
 
 ## Perfect secrecy
 An encryption scheme has perfect secrecy when, for a uniformly random $k$, all ciphertexts $c$ and all pairs of messages $m_{0}, m_{1}$ follow:

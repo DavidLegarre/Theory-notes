@@ -1,3 +1,4 @@
+tags: [[Git]]
 [[PEP8|Formatting guide]]
 
 ## Variable types
