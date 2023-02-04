@@ -28,7 +28,7 @@ title: Diffusion
 
 ## Security
 
-* [[CPA Security]]
+* [[CPA and CCA Security]]
 * [[CCA Security]]
 
 ## Types of Encryption
