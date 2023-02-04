@@ -56,3 +56,7 @@ We will say it is CPA secure
 If this holds, we then can check for CCA security. Following the same "game" but with an extra action
 
 * Now, $A$ can send also ciphers to be decrypted for as long as that cipher is not the same one as the one we are trying to obtain
+
+### Important notice
+
+Every time $A$ sends a message to $C$ if the schema specifies a new key is generated then a new key is generated for each message as if a new conversation has started.

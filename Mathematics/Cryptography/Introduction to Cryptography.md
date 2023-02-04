@@ -29,11 +29,10 @@ title: Diffusion
 ## Security
 
 * [[CPA and CCA Security]]
-* [[CCA Security]]
 
 ## Types of Encryption
 
- 1. [[Symmetric Encryption]]
+ * [[Symmetric Encryption]]
 
 ## Encryption Schemes
 
