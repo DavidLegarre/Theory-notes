@@ -1,5 +1,5 @@
 $$
-\text{If}\quad gcd(a,n)=1\to\exists \alpha,\beta \therefore
+\text{If}\quad gcd(a,n)=1\to\exists \alpha,\beta :
 \alpha a+\beta n=1
 $$
 $$
@@ -70,6 +70,4 @@ $$
 3^{40}·3^{7}&=3^{7}=87\mod 100
 \end{align*}
 $$
-
-
 
