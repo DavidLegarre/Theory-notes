@@ -61,8 +61,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "d9938b13a8a53c8e",
@@ -115,17 +114,17 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "994fadee66415e43",
+  "active": "328c0cb02c101189",
   "lastOpenFiles": [
+    "Mathematics/General math notation.md",
+    "Inbox/Crypto.md",
     "Mathematics/Cryptography/Encryption schemas/Elgamal.md",
     "Mathematics/Cryptography/Hash Functions.md",
-    "Mathematics/General math notation.md",
     "Mathematics/Cryptography/Encryption schemas/AES.md",
     "Mathematics/Cryptography/Encryption schemas/One-Time-Pad.md",
     "Mathematics/Cryptography/Encryption schemas/RSA.md",
     "Mathematics/Cryptography/Encryption schemas/Shift cipher (Caesar's).md",
     "Mathematics/Cryptography/Encryption schemas/Encryption schema properties.md",
-    "Mathematics/Cryptography/Security/Secret Sharing.md",
-    "Mathematics/Cryptography/Introduction to Cryptography.md"
+    "Mathematics/Cryptography/Security/Secret Sharing.md"
   ]
 }
