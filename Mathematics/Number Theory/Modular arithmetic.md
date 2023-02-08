@@ -174,7 +174,7 @@ $$
 &= 3^{80}\mod191
 \end{align*}
 $$
-Now we could simplify even more with [[Modular arithmetic#Modular exponentiation|Modular Exponentiation]]
+Now we could simplify even more with [[Modular arithmetic#Example|Modular Exponentiation]]
 
 ## Euler's theorem
 
@@ -245,3 +245,39 @@ $$
 \end{align*}
 $$
 $\therefore 4^{400}\equiv1\mod15$
+
+## Binary Formula
+
+1. Write the exponent $b$ into powers of 2 by writing it in binary, obtaining 
+$$
+(b)_{2}=(d_{k-1},d_{k-2},\ldots, d_{1},d_{0})
+$$
+2. Then from the left to right:
+$$
+\begin{align*}
+d_{k-1}:c_{1}&\equiv c_{0}^{2}·a^{d_{k-1}}\mod n\\
+d_{k-2}:c_{2}&\equiv c_{1}^{2}·a^{d_{k-2}}\mod n\\
+\vdots\\
+d_{1}: c_{k-1}&\equiv c_{k-2}^{2}·a^{d_{1}}\mod n\\\\
+d_{0}:c_{k}&\equiv c_{k-1}^{2}·a^{d_{0}}\mod n
+\end{align*}
+$$
+
+### Example
+
+$3^{80}\mod 191$
+
+Convert exponent to binary:
+$$
+(80)_{2}=1010000
+$$
+| $(80)_{2}$ | $c_{0}=1$                                        |
+| ---------- | ------------------------------------------------ |
+| 1          | $c_{1}\equiv1^{2}·3^{1}=1·3\equiv3\mod191$            |
+| 0          | $c_{2}\equiv3^{2}·3^{0}=9·1\equiv9\mod191$            |
+| 1          | $c_{3}\equiv9^{2}·3^{1}=81·3=243\equiv52\mod191$ |
+| 0          | $c_{4}\equiv52^{2}·3^{0}=2704\equiv30\mod191$         |
+| 0          | $c_{5}\equiv30^{2}·3^{0}=900\equiv136\mod191$         |
+| 0          | $c_{6}\equiv136^{2}·3^0=(-55)^{2}·1=3025\equiv160\mod191$    |
+| 0          | $c_{7}\equiv160^{2}·3^{0}=(-31)^{2}·1=961\equiv6$                                                 |
+
