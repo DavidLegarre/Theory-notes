@@ -262,6 +262,25 @@ d_{1}: c_{k-1}&\equiv c_{k-2}^{2}·a^{d_{1}}\mod n\\\\
 d_{0}:c_{k}&\equiv c_{k-1}^{2}·a^{d_{0}}\mod n
 \end{align*}
 $$
+## How to convert a number in base 10 to binary easy
+
+Example
+
+| Dividend  | Remainder |
+| --------- | --------- |
+| $80/2=40$ | $0$         |
+| $40/2=20$ | $0$         |
+| $20/2=10$ | $0$         |
+| $10/2=5$  | $0$         |
+| $5/2=2$   | $1$         |
+| $2/2=1$   | $0$       |
+| $1/2=0$   | $1$          |
+
+By taking the remainder column and write it from bottom to top we obtain
+
+$$
+(80)_{2}=1010000
+$$
 
 ### Example
 
@@ -279,5 +298,4 @@ $$
 | 0          | $c_{4}\equiv52^{2}·3^{0}=2704\equiv30\mod191$         |
 | 0          | $c_{5}\equiv30^{2}·3^{0}=900\equiv136\mod191$         |
 | 0          | $c_{6}\equiv136^{2}·3^0=(-55)^{2}·1=3025\equiv160\mod191$    |
-| 0          | $c_{7}\equiv160^{2}·3^{0}=(-31)^{2}·1=961\equiv6$                                                 |
-
+| 0          | $c_{7}\equiv160^{2}·3^{0}=(-31)^{2}·1=961\equiv6\mod191$|

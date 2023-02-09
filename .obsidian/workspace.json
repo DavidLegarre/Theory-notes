@@ -4,23 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "ae8731e0b6456129",
+        "id": "f9679acd714990ba",
         "type": "tabs",
         "children": [
           {
-            "id": "50edcc9668a1284d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Mathematics/Number Theory/Modular arithmetic.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "fb7ba6fe9a36b72f",
+            "id": "b63efc1fc5567089",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -73,8 +61,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "d9938b13a8a53c8e",
@@ -90,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mathematics/Number Theory/Modular arithmetic.md",
+                "file": "Mathematics/Number Theory/Euclidean Algorithm.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -109,8 +96,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -127,17 +113,17 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "50edcc9668a1284d",
+  "active": "b63efc1fc5567089",
   "lastOpenFiles": [
-    "Mathematics/Number Theory/Euclidean Algorithm.md",
     "Mathematics/Number Theory/Modular arithmetic.md",
+    "Mathematics/Cryptography/Introduction to Cryptography.md",
+    "Mathematics/Number Theory/Euclidean Algorithm.md",
     "Mathematics/Number Theory/Negative modulo number.md",
-    "Inbox/Crypto.md",
-    "Mathematics/General math notation.md",
-    "Mathematics/Cryptography/Encryption schemas/Elgamal.md",
+    "Mathematics/Number Theory/Chinese Remainder Theorem (C.R.T).md",
+    "Mathematics/Number Theory/Group Theory.md",
+    "Statistics/PGM Algorithms/Belief propagation.md",
+    "Mathematics/Cryptography/Block Ciphers.md",
     "Mathematics/Cryptography/Hash Functions.md",
-    "Mathematics/Cryptography/Encryption schemas/AES.md",
-    "Mathematics/Cryptography/Encryption schemas/One-Time-Pad.md",
-    "Mathematics/Cryptography/Encryption schemas/RSA.md"
+    "Computer Science/Big Data/Libraries/Matplotlib Cheatsheets.md"
   ]
 }

@@ -20,6 +20,15 @@ $$
 5. Otherwise, $r_{i+1}>0$, so set $i=i+1$ and repeat step $3$
 ```
 
+```ad-abstract
+title: Proposition
+Let $d=gcd(a,b)$:
+$$
+\forall x,y \in \mathbb{Z}:d\mid ax+by
+$$
+```
+
+
 # Extended Euclidean Algorithm (EEA)
 
 ``` ad-note
