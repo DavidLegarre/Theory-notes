@@ -248,6 +248,8 @@ $\therefore 4^{400}\equiv1\mod15$
 
 ## Binary Formula
 
+To calculate $a^{b}=\mod n$:
+
 1. Write the exponent $b$ into powers of 2 by writing it in binary, obtaining 
 $$
 (b)_{2}=(d_{k-1},d_{k-2},\ldots, d_{1},d_{0})

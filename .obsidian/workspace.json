@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mathematics/Number Theory/Euclidean Algorithm.md",
+                "file": "Mathematics/Cryptography/Introduction to Cryptography.md",
                 "mode": "source",
                 "source": false
               }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mathematics/Number Theory/Euclidean Algorithm.md",
+                "file": "Mathematics/Cryptography/Introduction to Cryptography.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +100,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -115,6 +116,7 @@
   },
   "active": "b63efc1fc5567089",
   "lastOpenFiles": [
+    "Mathematics/Cryptography/Hash Functions.md",
     "Mathematics/Number Theory/Modular arithmetic.md",
     "Mathematics/Cryptography/Introduction to Cryptography.md",
     "Mathematics/Number Theory/Euclidean Algorithm.md",
@@ -123,7 +125,6 @@
     "Mathematics/Number Theory/Group Theory.md",
     "Statistics/PGM Algorithms/Belief propagation.md",
     "Mathematics/Cryptography/Block Ciphers.md",
-    "Mathematics/Cryptography/Hash Functions.md",
     "Computer Science/Big Data/Libraries/Matplotlib Cheatsheets.md"
   ]
 }
