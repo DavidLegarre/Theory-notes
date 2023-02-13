@@ -4,28 +4,16 @@
     "type": "split",
     "children": [
       {
-<<<<<<< HEAD
-        "id": "e9ef16b329d16265",
+        "id": "11aabf262bd3f104",
         "type": "tabs",
         "children": [
           {
-            "id": "328c0cb02c101189",
-=======
-        "id": "f9679acd714990ba",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "b63efc1fc5567089",
->>>>>>> refs/remotes/origin/main
+            "id": "1b2763a22edae1a9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-<<<<<<< HEAD
-                "file": "Inbox/Crypto.md",
-=======
-                "file": "Mathematics/Cryptography/Introduction to Cryptography.md",
->>>>>>> refs/remotes/origin/main
+                "file": "Inbox.md",
                 "mode": "source",
                 "source": false
               }
@@ -89,11 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-<<<<<<< HEAD
-                "file": "Inbox/Crypto.md",
-=======
-                "file": "Mathematics/Cryptography/Introduction to Cryptography.md",
->>>>>>> refs/remotes/origin/main
+                "file": "Inbox.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,14 +86,6 @@
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
               }
-            }
-          },
-          {
-            "id": "c55766848e2f1b25",
-            "type": "leaf",
-            "state": {
-              "type": "advanced-tables-toolbar",
-              "state": {}
             }
           }
         ]
@@ -121,30 +97,26 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
-      "command-palette:Open command palette": false,
-      "markdown-importer:Open format converter": false,
       "templates:Insert template": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false
+      "command-palette:Open command palette": false,
+      "markdown-importer:Open format converter": false
     }
   },
-<<<<<<< HEAD
-  "active": "328c0cb02c101189",
-=======
-  "active": "b63efc1fc5567089",
->>>>>>> refs/remotes/origin/main
+  "active": "1b2763a22edae1a9",
   "lastOpenFiles": [
-    "Mathematics/Cryptography/Hash Functions.md",
-    "Mathematics/Number Theory/Modular arithmetic.md",
-    "Mathematics/Cryptography/Introduction to Cryptography.md",
-    "Mathematics/Number Theory/Euclidean Algorithm.md",
-    "Mathematics/Number Theory/Negative modulo number.md",
-    "Mathematics/Number Theory/Chinese Remainder Theorem (C.R.T).md",
-    "Mathematics/Number Theory/Group Theory.md",
-    "Statistics/PGM Algorithms/Belief propagation.md",
-    "Mathematics/Cryptography/Block Ciphers.md",
-    "Computer Science/Big Data/Libraries/Matplotlib Cheatsheets.md"
+    "Computer Science/Algorithms/Simple Algorithms Complexity.md",
+    "Computer Science/Algorithms/Algorithms.md",
+    "Computer Science/Algorithms/Computing Algorithms.md",
+    "Computer Science/Algorithms/Array algorithms/Linear search.md",
+    "Computer Science/Algorithms/Untitled.md",
+    "Computer Science/Big Data/AWS/Cloud practitioner/Cloud Computing.md",
+    "Computer Science/Big Data/AWS/Cloud practitioner/Client-server model.md",
+    "conflict-files-obsidian-git.md",
+    "Videogames/CCG/Legends Of Runeterra (LOR)/Game Theory (LOR).md",
+    "Videogames/CCG/CCG Glossary.md"
   ]
 }
