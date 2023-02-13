@@ -46,14 +46,18 @@ $$
 ```
 
 # Correctness
+
 Proof $D_{sk}(E_{pk}(m))=m$:
 
 $$
 \begin{align*}
 c^{d}\mod N&=m^{ed}\mod N\\
-&= m^{1+\varphi(N)}\mod N\\
-&\underset{1}{=} m^{1}\cdot m^{\varphi(N)}\mod N\\
+&\overset{1}{=} m^{1+\varphi(N)}\mod N\\
+&\overset{2}{=} m^{1}\cdot m^{\varphi(N)}\mod N\\
 &= m\mod N
 \end{align*}
 $$
-$1:$ By [[Modular arithmetic#Euler's theorem|Euler's theorem]] we know that $x^{\varphi(N)} \equiv 1\mod N$
+$1:$ Since $ed \equiv1\mod \varphi(N)\to ed=1+\varphi(N)\cdot k$, so we choose $k=1$
+$2:$ By [[Modular arithmetic#Euler's theorem|Euler's theorem]] we know that $x^{\varphi(N)} \equiv 1\mod N$
+
+**RSA is only used for key sharing**
