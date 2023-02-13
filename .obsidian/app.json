@@ -14,9 +14,9 @@
   "rightToLeft": false,
   "pdfExportSettings": {
     "includeName": true,
-    "pageSize": "A4",
+    "pageSize": "A3",
     "landscape": false,
-    "margin": "0",
+    "margin": "1",
     "downscalePercent": 100
   },
   "attachmentFolderPath": "ZZPasted images"

@@ -22,7 +22,7 @@ Let $H$ be a hash function. We then say that $H$ is:
 
 ```ad-abstract
 title:Proposition
-If $H$ is collision-resistant, then it is second preimage-resistant
+If $H$ is collision-resistant, then it is second preimage-resistant.
+This does not mean that $H$ being collision resistant implies that it is preimage rsistant
 ```
-
 
