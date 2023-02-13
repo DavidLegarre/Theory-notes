@@ -4,36 +4,6 @@
     "type": "split",
     "children": [
       {
-        "id": "ae8731e0b6456129",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "50edcc9668a1284d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Mathematics/Number Theory/Modular arithmetic.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "fb7ba6fe9a36b72f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Mathematics/Number Theory/Euclidean Algorithm.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          }
-        ]
-      },
-      {
         "id": "e9ef16b329d16265",
         "type": "tabs",
         "children": [
@@ -108,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mathematics/Number Theory/Modular arithmetic.md",
+                "file": "Inbox/Crypto.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -145,7 +115,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "50edcc9668a1284d",
+  "active": "328c0cb02c101189",
   "lastOpenFiles": [
     "Mathematics/Number Theory/Euclidean Algorithm.md",
     "Mathematics/Number Theory/Modular arithmetic.md",
