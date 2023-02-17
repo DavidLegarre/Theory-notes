@@ -13,25 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Statistics/Probability theory/Probabilities Properties.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          }
-        ]
-      },
-      {
-        "id": "515d21c6836d7110",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "1b2763a22edae1a9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Mathematics/Cryptography/Security/Symmetric Encryption.md",
+                "file": "Inbox.md",
                 "mode": "source",
                 "source": false
               }
@@ -79,7 +61,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "d9938b13a8a53c8e",
@@ -95,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Statistics/Probability theory/Probabilities Properties.md",
+                "file": "Inbox.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,8 +109,8 @@
   },
   "active": "d1510991cb466abe",
   "lastOpenFiles": [
-    "Statistics/Bayesian statistics/Bayes' Theorem.md",
     "Statistics/Probability theory/Probabilities Properties.md",
+    "Statistics/Bayesian statistics/Bayes' Theorem.md",
     "Mathematics/Cryptography/Introduction to Cryptography.md",
     "Mathematics/Cryptography/Security/Symmetric Encryption.md",
     "Mathematics/Number Theory/Modular arithmetic.md",
