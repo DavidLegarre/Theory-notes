@@ -15,8 +15,8 @@
               "state": {
                 "file": "Mathematics/Number Theory/Modular Equations.canvas",
                 "viewState": {
-                  "x": -863.037440381558,
-                  "y": -192.47996820349755,
+                  "x": -141.2345786963433,
+                  "y": -106.26462639109701,
                   "zoom": -1.0036079564514393,
                   "snapToGrid": false
                 }
@@ -100,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mathematics/Number Theory/Modular Equations.canvas",
+                "file": "Mathematics/Number Theory/Modular arithmetic.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,10 +138,10 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "bee628955ea5a7cb",
+  "active": "0a5ba210cbb1db14",
   "lastOpenFiles": [
-    "Mathematics/Number Theory/Modular arithmetic.md",
     "Mathematics/Number Theory/Modular Equations.canvas",
+    "Mathematics/Number Theory/Modular arithmetic.md",
     "Mathematics/Number Theory/Modular Equations.md",
     "Statistics/Statistical learning.md",
     "Computer Science/Algorithms/Simple Algorithms Complexity.md",
