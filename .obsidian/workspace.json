@@ -4,20 +4,38 @@
     "type": "split",
     "children": [
       {
-        "id": "11aabf262bd3f104",
+        "id": "f204443a5600f444",
         "type": "tabs",
         "children": [
           {
-            "id": "fb974d67e4d51be5",
+            "id": "bee628955ea5a7cb",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "Mathematics/Number Theory/Modular Equations.canvas",
+                "viewState": {
+                  "x": -863.037440381558,
+                  "y": -192.47996820349755,
+                  "zoom": -1.0036079564514393,
+                  "snapToGrid": false
+                }
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "7553c0b0878d4f2e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0a5ba210cbb1db14",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-<<<<<<< HEAD
-                "file": "Statistics/Probability theory/Probability.md",
-=======
-                "file": "Inbox.md",
->>>>>>> 723752e59b97df2814d92c761f88374096d9460f
+                "file": "Mathematics/Number Theory/Modular arithmetic.md",
                 "mode": "source",
                 "source": false
               }
@@ -82,11 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-<<<<<<< HEAD
-                "file": "Statistics/Probability theory/Probability.md",
-=======
-                "file": "Inbox.md",
->>>>>>> 723752e59b97df2814d92c761f88374096d9460f
+                "file": "Mathematics/Number Theory/Modular Equations.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -96,8 +110,17 @@
                 "unlinkedCollapsed": true
               }
             }
+          },
+          {
+            "id": "deec22c1c5c96cab",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -106,6 +129,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -114,22 +138,17 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "fb974d67e4d51be5",
+  "active": "bee628955ea5a7cb",
   "lastOpenFiles": [
-<<<<<<< HEAD
-    "Statistics/Probability theory/random variable.md",
-    "Statistics/Probability theory/Probability.md",
-    "Statistics/Probability theory/expected value.md",
-    "Statistics/Probability theory/Probabilities Properties.md",
-    "Statistics/Probability theory/Probabilistic Graphical Models.md",
-    "Statistics/Bayesian statistics/Bayesian Network.md",
-    "Mathematics/Discrete mathematics/Graph Theory/Graph.md",
-    "Mathematics/Cryptography/Study material/Cryptography exercises and Solutions.md",
-=======
-    "Statistics/Probability theory/Probabilities Properties.md",
-    "Statistics/Bayesian statistics/Bayes' Theorem.md",
->>>>>>> 723752e59b97df2814d92c761f88374096d9460f
-    "Mathematics/Cryptography/Introduction to Cryptography.md",
-    "Mathematics/Cryptography/Security/Hash Functions.md"
+    "Mathematics/Number Theory/Modular arithmetic.md",
+    "Mathematics/Number Theory/Modular Equations.canvas",
+    "Mathematics/Number Theory/Modular Equations.md",
+    "Statistics/Statistical learning.md",
+    "Computer Science/Algorithms/Simple Algorithms Complexity.md",
+    "Computer Science/Algorithms/Algorithms.md",
+    "Computer Science/Algorithms/Computing Algorithms.md",
+    "Computer Science/Algorithms/Array algorithms/Linear search.md",
+    "Computer Science/Algorithms/Untitled.md",
+    "Computer Science/Big Data/AWS/Cloud practitioner/Cloud Computing.md"
   ]
 }

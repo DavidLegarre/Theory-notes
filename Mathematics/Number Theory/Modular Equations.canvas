@@ -1,0 +1,31 @@
+{
+	"nodes":[
+		{"id":"590e2cbdcd516953","x":-1394,"y":-535,"width":682,"height":279,"type":"text","text":"## Apply ![[Modular arithmetic#Fermat's little Theorem|Fermat's little theorem]]"},
+		{"id":"a0d6746149c2fdc2","x":-613,"y":-535,"width":732,"height":279,"type":"text","text":"![[Modular arithmetic#Euler's theorem]]\n"},
+		{"id":"e65f2cc2882e600a","x":-771,"y":-785,"width":250,"height":89,"type":"text","text":"## Is $b$ a prime number?"},
+		{"id":"4938e1417519cc5a","x":-838,"y":-1157,"width":385,"height":65,"type":"text","text":"# Calculate $a^b\\mod n$"},
+		{"id":"45bceeadc39cc962","x":-770,"y":-972,"width":250,"height":60,"type":"text","text":"## Is $b$ reducible?"},
+		{"id":"bc35962ac99de9dd","x":-456,"y":-163,"width":418,"height":120,"type":"text","text":"## Set b:\n$$\nb=\\varphi(n)·k+r"},
+		{"id":"eae6f3e3163e606d","x":-1244,"y":-163,"width":383,"height":120,"type":"text","text":"## Set b:\n$$\nb=(p-1)·k+r\n$$"},
+		{"id":"4808b189efc960c8","x":-771,"y":14,"width":250,"height":107,"type":"text","text":"## Solve\n$$\na^{r}\\mod n\n$$"},
+		{"id":"7223f18cc0740f17","x":-1012,"y":212,"width":732,"height":495,"type":"text","text":"![[Modular arithmetic#Binary Formula]]"},
+		{"id":"cca516f383aab292","x":119,"y":163,"width":780,"height":593,"type":"text","text":"![[Modular arithmetic#Example]]"},
+		{"id":"60a14c578575c446","x":358,"y":-548,"width":572,"height":305,"type":"text","text":"![[Modular arithmetic#Euler's Totient function]]\n"},
+		{"id":"c8c4fd7e20629927","x":-1767,"y":-445,"width":315,"height":100,"type":"text","text":"# Perform modular exponenciation"}
+	],
+	"edges":[
+		{"id":"f74ee96537ac407c","fromNode":"e65f2cc2882e600a","fromSide":"bottom","toNode":"590e2cbdcd516953","toSide":"top","label":"Yes"},
+		{"id":"7d87aec6f4abba77","fromNode":"e65f2cc2882e600a","fromSide":"bottom","toNode":"a0d6746149c2fdc2","toSide":"top","label":"No"},
+		{"id":"58167918d5ab22c0","fromNode":"a0d6746149c2fdc2","fromSide":"right","toNode":"60a14c578575c446","toSide":"left","label":"Remember"},
+		{"id":"87e648b570e85684","fromNode":"a0d6746149c2fdc2","fromSide":"bottom","toNode":"bc35962ac99de9dd","toSide":"top"},
+		{"id":"547847e48440c018","fromNode":"590e2cbdcd516953","fromSide":"bottom","toNode":"eae6f3e3163e606d","toSide":"top"},
+		{"id":"9ee58e5068521f2b","fromNode":"eae6f3e3163e606d","fromSide":"bottom","toNode":"4808b189efc960c8","toSide":"left"},
+		{"id":"dd82d916bc13ba4f","fromNode":"bc35962ac99de9dd","fromSide":"bottom","toNode":"4808b189efc960c8","toSide":"right"},
+		{"id":"c9c76aef15d38554","fromNode":"4938e1417519cc5a","fromSide":"bottom","toNode":"45bceeadc39cc962","toSide":"top"},
+		{"id":"47e0d8dfee089c23","fromNode":"45bceeadc39cc962","fromSide":"bottom","toNode":"e65f2cc2882e600a","toSide":"top","label":"Yes"},
+		{"id":"479477120911f58f","fromNode":"4808b189efc960c8","fromSide":"bottom","toNode":"7223f18cc0740f17","toSide":"top"},
+		{"id":"fb6c6327705e6157","fromNode":"7223f18cc0740f17","fromSide":"right","toNode":"cca516f383aab292","toSide":"left"},
+		{"id":"b19e0463e68a3455","fromNode":"c8c4fd7e20629927","fromSide":"bottom","toNode":"7223f18cc0740f17","toSide":"left"},
+		{"id":"8e1cacc4c327f374","fromNode":"45bceeadc39cc962","fromSide":"left","toNode":"c8c4fd7e20629927","toSide":"top","label":"No"}
+	]
+}

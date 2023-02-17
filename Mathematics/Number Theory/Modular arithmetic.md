@@ -151,7 +151,7 @@ We then say that $\varphi(n)$ returns $|\mathbb{Z}_{n}^{*}|$
 title:Defintion
 Let $p$ be a prime number. Then, $\forall x \in \mathbb{Z}$, we have that:
 $$
-x^{p-1}\equiv1\mod p
+a^{p-1}\equiv1\mod p
 $$
 ```
 
