@@ -17,11 +17,19 @@ The way to achieve this is through a natural number that we call the _security 
 A cryptographic scheme has $n$-bit security if the best known attack requires $2^n$ steps. When the best known attack is a brute-force attack, then $n=\lambda$.
 ```
 
-To calculate the bits of security of a scheme, Let $\lambda$ be the number of steps of the best known attack
+To calculate the bits of security of a scheme, Let $N$ be the number of steps of the best known attack and $\lambda$ the security parameter
 $$
-\text{Bits of security}=\log_{2}(\lambda)
+\lambda=\log_{2}(N)
 $$
-
+Brute force case:
+$$
+\begin{align*}
+\lambda&= \log_{2}(N)\\
+&= \log_{2}(2^{n})\\
+&= n\\
+\lambda&= n
+\end{align*}
+$$
 ## Confusion and Diffusion
 
 ```ad-abstract

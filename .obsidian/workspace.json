@@ -8,30 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "d1510991cb466abe",
+            "id": "fb974d67e4d51be5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Statistics/Probability theory/Probabilities Properties.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          }
-        ]
-      },
-      {
-        "id": "515d21c6836d7110",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "1b2763a22edae1a9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Mathematics/Cryptography/Security/Symmetric Encryption.md",
+                "file": "Statistics/Probability theory/Probability.md",
                 "mode": "source",
                 "source": false
               }
@@ -95,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Statistics/Probability theory/Probabilities Properties.md",
+                "file": "Statistics/Probability theory/Probability.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,17 +106,17 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "d1510991cb466abe",
+  "active": "fb974d67e4d51be5",
   "lastOpenFiles": [
-    "Statistics/Bayesian statistics/Bayes' Theorem.md",
+    "Statistics/Probability theory/random variable.md",
+    "Statistics/Probability theory/Probability.md",
+    "Statistics/Probability theory/expected value.md",
     "Statistics/Probability theory/Probabilities Properties.md",
+    "Statistics/Probability theory/Probabilistic Graphical Models.md",
+    "Statistics/Bayesian statistics/Bayesian Network.md",
+    "Mathematics/Discrete mathematics/Graph Theory/Graph.md",
+    "Mathematics/Cryptography/Study material/Cryptography exercises and Solutions.md",
     "Mathematics/Cryptography/Introduction to Cryptography.md",
-    "Mathematics/Cryptography/Security/Symmetric Encryption.md",
-    "Mathematics/Number Theory/Modular arithmetic.md",
-    "Inbox.md",
-    "Computer Science/Algorithms/Simple Algorithms Complexity.md",
-    "Computer Science/Algorithms/Algorithms.md",
-    "Computer Science/Algorithms/Computing Algorithms.md",
-    "Computer Science/Algorithms/Array algorithms/Linear search.md"
+    "Mathematics/Cryptography/Security/Hash Functions.md"
   ]
 }
