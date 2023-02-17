@@ -61,3 +61,22 @@ $1:$ Since $ed \equiv1\mod \varphi(N)\to ed=1+\varphi(N)\cdot k$, so we choose $
 $2:$ By [[Modular arithmetic#Euler's theorem|Euler's theorem]] we know that $x^{\varphi(N)} \equiv 1\mod N$
 
 **RSA is only used for key sharing**
+
+# Chinese Remainder Theorem (CRT)
+
+```ad-abstract
+title:Proposition
+Let $a,b \in \mathbb{N}$ be coprime, and let $n=ab$. Then for each $x \in \mathbb{Z}_{n}$ tehre exists a unique pair $(y,z)\in \mathbb{Z}_{a}\times \mathbb{Z}_{b}$ such that:
+$$
+\begin{align*}
+x &\equiv y\mod a,\\
+x &\equiv z\mod b
+\end{align*}
+$$
+
+Moreover given $(y,z)\in \mathbb{Z}_{a}\times \mathbb{Z}_{b}$, we can explicitly recover the corresponding $x$ by computing
+$$
+x = (by(b^{-1}\mod a)+az(a^{-1}\mod b))\mod n
+$$
+```
+
