@@ -69,8 +69,8 @@ title:Proposition
 Let $a,b \in \mathbb{N}$ be coprime, and let $n=ab$. Then for each $x \in \mathbb{Z}_{n}$ tehre exists a unique pair $(y,z)\in \mathbb{Z}_{a}\times \mathbb{Z}_{b}$ such that:
 $$
 \begin{align*}
-x \equiv y\mod a,
-x \equiv z\mod b
+x &\equiv y\mod a,\\
+x &\equiv z\mod b
 \end{align*}
 $$
 
