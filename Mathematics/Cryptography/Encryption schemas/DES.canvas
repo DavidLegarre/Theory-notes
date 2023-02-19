@@ -1,0 +1,24 @@
+{
+	"nodes":[
+		{"id":"c3c681e64930fbf7","x":-253,"y":33,"width":107,"height":50,"type":"text","text":"# $c$"},
+		{"id":"82e0bec2de9b3a18","x":-264,"y":-490,"width":129,"height":60,"type":"text","text":"# $m$"},
+		{"id":"5797289c502a6550","x":-458,"y":-334,"width":194,"height":50,"type":"text","text":"# $DES_{K_1}$"},
+		{"id":"bf1e5d38e83c2499","x":-420,"y":-226,"width":119,"height":50,"type":"text","text":"# $c'$"},
+		{"id":"884a17d1b50d6789","x":-458,"y":-105,"width":194,"height":50,"type":"text","text":"# $DES_{K_2}$"},
+		{"id":"e27221be326e91ab","x":-146,"y":-105,"width":194,"height":50,"type":"text","text":"# $DES_{K_2}$"},
+		{"id":"9a815a356f999d9d","x":-108,"y":-226,"width":119,"height":50,"type":"text","text":"# $c'$"},
+		{"id":"aa1a54b634ccb42c","x":-146,"y":-334,"width":194,"height":50,"type":"text","text":"# $DES_{K_1}$"}
+	],
+	"edges":[
+		{"id":"6961c69b2e310982","fromNode":"82e0bec2de9b3a18","fromSide":"bottom","toNode":"5797289c502a6550","toSide":"top"},
+		{"id":"0bffa67dae2837e2","fromNode":"5797289c502a6550","fromSide":"bottom","toNode":"bf1e5d38e83c2499","toSide":"top"},
+		{"id":"d25e4dc25d10615d","fromNode":"bf1e5d38e83c2499","fromSide":"bottom","toNode":"884a17d1b50d6789","toSide":"top"},
+		{"id":"e0f05e6b66374acb","fromNode":"884a17d1b50d6789","fromSide":"bottom","toNode":"c3c681e64930fbf7","toSide":"top"},
+		{"id":"865ee798db6e0736","fromNode":"c3c681e64930fbf7","fromSide":"top","toNode":"e27221be326e91ab","toSide":"bottom"},
+		{"id":"24d68358b1583d67","fromNode":"e27221be326e91ab","fromSide":"top","toNode":"9a815a356f999d9d","toSide":"bottom"},
+		{"id":"ab0f33ae6732e2b6","fromNode":"9a815a356f999d9d","fromSide":"top","toNode":"aa1a54b634ccb42c","toSide":"bottom"},
+		{"id":"b849ae3867345b4a","fromNode":"aa1a54b634ccb42c","fromSide":"top","toNode":"82e0bec2de9b3a18","toSide":"bottom"},
+		{"id":"36ce4e5d044de289","fromNode":"bf1e5d38e83c2499","fromSide":"right","toNode":"9a815a356f999d9d","toSide":"left"},
+		{"id":"159650c46fd75937","fromNode":"9a815a356f999d9d","fromSide":"left","toNode":"bf1e5d38e83c2499","toSide":"right","label":"Collision"}
+	]
+}

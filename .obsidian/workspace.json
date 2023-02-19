@@ -4,38 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "f204443a5600f444",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "bee628955ea5a7cb",
-            "type": "leaf",
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "Mathematics/Number Theory/Modular Equations.canvas",
-                "viewState": {
-                  "x": -141.2345786963433,
-                  "y": -106.26462639109701,
-                  "zoom": -1.0036079564514393,
-                  "snapToGrid": false
-                }
-              }
-            }
-          }
-        ]
-      },
-      {
         "id": "7553c0b0878d4f2e",
         "type": "tabs",
         "children": [
           {
-            "id": "0a5ba210cbb1db14",
+            "id": "b50163d67fe58244",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mathematics/Number Theory/Modular arithmetic.md",
+                "file": "Mathematics/Cryptography/Study material/Cryptography exercises and Solutions.md",
                 "mode": "source",
                 "source": false
               }
@@ -83,8 +61,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "d9938b13a8a53c8e",
@@ -100,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mathematics/Number Theory/Modular arithmetic.md",
+                "file": "Mathematics/Cryptography/Study material/Cryptography exercises and Solutions.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,17 +115,17 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "0a5ba210cbb1db14",
+  "active": "b50163d67fe58244",
   "lastOpenFiles": [
+    "Mathematics/Cryptography/Encryption schemas/DES.md",
+    "Mathematics/Cryptography/Encryption schemas/Elgamal.md",
+    "Mathematics/Cryptography/Encryption schemas/One-Time-Pad.md",
+    "Statistics/Probability theory/Probabilities Properties.md",
+    "Statistics/Probability theory/Probability.md",
+    "Mathematics/Cryptography/Encryption schemas/DES.canvas",
     "Mathematics/Number Theory/Modular Equations.canvas",
     "Mathematics/Number Theory/Modular arithmetic.md",
     "Mathematics/Number Theory/Modular Equations.md",
-    "Statistics/Statistical learning.md",
-    "Computer Science/Algorithms/Simple Algorithms Complexity.md",
-    "Computer Science/Algorithms/Algorithms.md",
-    "Computer Science/Algorithms/Computing Algorithms.md",
-    "Computer Science/Algorithms/Array algorithms/Linear search.md",
-    "Computer Science/Algorithms/Untitled.md",
-    "Computer Science/Big Data/AWS/Cloud practitioner/Cloud Computing.md"
+    "Statistics/Statistical learning.md"
   ]
 }
