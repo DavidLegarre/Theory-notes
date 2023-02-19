@@ -8,7 +8,7 @@
   "alwaysUpdateLinks": true,
   "autoPairMarkdown": false,
   "readableLineLength": true,
-  "strictLineBreaks": false,
+  "strictLineBreaks": true,
   "showFrontmatter": false,
   "showLineNumber": true,
   "rightToLeft": false,

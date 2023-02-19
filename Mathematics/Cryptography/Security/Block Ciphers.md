@@ -1,3 +1,6 @@
+```toc
+```
+
 ``` ad-abstract
 A block cipher of length $l$ is an encryption scheme that encrypts a message of fixed length $l$
 ```
@@ -64,3 +67,28 @@ $$
 ![[Pasted image 20230118162912.png]]
 
 Again, we need an IV to feed the OFB. This mode allows us to precompute a set of keys $w_{i}$ in advance for later use in  the communications. 
+
+### Counter (CTR) Mode
+
+It chooses a **public** random counter ($ctr$ or $nonce$) that is chosen at the beginning of the
+communication, and is increased by $1$ after each iteration.
+$$
+\begin{align*}
+ctr_{i}&=ctr_{i-1}+1\\
+c_{i}&= m_{i}\oplus E_{k}(ctr_{i})
+\end{align*}
+$$
+![[Pasted image 20230219214936.png]]
+![[Pasted image 20230219214942.png]]
+
+## Error propagation
+
+Let $C_{i}$ be ciphertext block $i$, and $P_{i}$ be plaintext block $i$
+
+| Mode | Effect of bit errors in $C_{i}$                                | Effect of bit errors in the $IV$ or $nonce$ |
+| ---- | -------------------------------------------------------------- | ------------------------------------------- |
+| ECB  | Random bit errors in $P_{i}$                                   | -                                           |
+| CBC  | Random bit errors in $P_{i}$, Specific bit errors in $P_{i+1}$ | Specific errors in $P_{1}$                  |
+| CFB  | Specific bit errors in $P_{i},P_{i+1},\ldots$                  | Random bit errors in $P_{1},\ldots$         |
+| OFB  | Specific bit errors in $P_{i}$                                 | Random bit errors in $P_{1},\ldots$         |
+| CTR  | Specific bit errors in $P_{i}$                                 | Random bit errors in $P_{i}$ for bit error in $ctr_{i}$                                            |
