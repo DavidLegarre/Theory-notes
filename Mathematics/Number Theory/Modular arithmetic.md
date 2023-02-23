@@ -1,4 +1,4 @@
-Connects to: [[Euclidean Algorithm]], [[Group Theory]]
+Connects to: [[Euclidean Algorithm]], [[Group Theory]], [[Chinese Remainder Theorem (C.R.T)]]
 
 ```toc
 ```

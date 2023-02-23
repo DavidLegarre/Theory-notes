@@ -1,19 +1,20 @@
-# Chinese Remainder Theorem (C.R.T)
-Let $a,b\in\mathbb{N}$ be coprime, and let $n=ab$. Then, for each $x\in\mathbb{Z}_{n}$, there exists a unique pair $(y,z)\in\mathbb{Z}_{a}\times\mathbb{Z}_{b}$ such that:
+```ad-summary 
+title:Defintion 
+The Chinese Remainder Theorem (C.R.T.) states that if one knows the remainders of an integer n by several other integers, the one can determine  uniquely the remainder of division of n by the product of these integers, under the condition that the divisors are pairwise coprime
+```
+
+## Statement
+
+Let $n_{1},\ldots,n_{k} \in \mathbb{Z} > 1$, and let $N=n_{1}\cdot n_{2} \ldots n_{k-1} \cdot n_{k}$:
+
+This theorem asserts that if all $n_{i}$ are pairwise coprime, and we have another set of integers as $a_{1},\ldots,a_{k}$ such that $\forall i,\ 0\leq a_{i}<n_{1}$, then there is only one integer $x$ such that $0\leq x<N$
+
+This means that the following system has a solution:
 $$
 \begin{align*}
-x&\equiv y\mod a\\
-x&\equiv z\mod b
+x&\equiv a_{1}\mod n_1\\
+&\vdots\\
+x&\equiv a_{k}\mod n_{k}
 \end{align*}
 $$
 
-Then we can recover $x$ as:
-$$
-x=by(b^{-1}\mod a)+az(a^{-1}\mod b)
-$$
-Then, in the case that all numbers are coprime between them. We can calculate the CRT as:
-
-![[Pasted image 20220707183411.png]]
-
-
-We need to use [[Euclidean Algorithm]]
