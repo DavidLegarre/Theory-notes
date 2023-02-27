@@ -17,4 +17,3 @@ x&\equiv a_{1}\mod n_1\\
 x&\equiv a_{k}\mod n_{k}
 \end{align*}
 $$
-
