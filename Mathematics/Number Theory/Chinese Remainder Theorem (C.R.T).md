@@ -1,19 +1,43 @@
 ```ad-summary 
 title:Defintion 
-The Chinese Remainder Theorem (C.R.T.) states that if one knows the remainders of an integer n by several other integers, the one can determine  uniquely the remainder of division of n by the product of these integers, under the condition that the divisors are pairwise coprime
+For any given number $N \in \mathbb{Z}$ we know by the fundamental theorem 
+of arithmetic that $N=n_{k}\cdot\ldots \cdot n_{k_{i}}$ where $n_{k_{i}}$ are prime numbers
+
+Then, we know that there is a multiplicative isomorphism in 
+
+$$
+\mathbb{Z}_{n}\cong \mathbb{Z}_{n_{1}}\times \ldots \times \mathbb{Z}_{n_{2}}
+$$
+
+The C.R.T. States that when working inside the set $\mathbb{Z}_{n}$ we can work on it's decomposition to ease operations
+
 ```
 
-## Statement
+# Example
 
-Let $n_{1},\ldots,n_{k} \in \mathbb{Z} > 1$, and let $N=n_{1}\cdot n_{2} \ldots n_{k-1} \cdot n_{k}$:
-
-This theorem asserts that if all $n_{i}$ are pairwise coprime, and we have another set of integers as $a_{1},\ldots,a_{k}$ such that $\forall i,\ 0\leq a_{i}<n_{1}$, then there is only one integer $x$ such that $0\leq x<N$
-
-This means that the following system has a solution:
 $$
 \begin{align*}
-x&\equiv a_{1}\mod n_1\\
-&\vdots\\
-x&\equiv a_{k}\mod n_{k}
+6&=2\cdot3\\
+\mathbb{Z}_{6}&= \mathbb{Z}_{2}\times \mathbb{Z}_{3}
 \end{align*}
 $$
+| $\mathbb{Z}_{6}$ | $\mathbb{Z}_{2}\cdot \mathbb{Z}_{3}$ |
+| ---------------- | ------------------------------------ |
+| $0$              | $(0,0)$                              |
+| $1$              | $(1,1)$                              |
+| $2$              | $(0,2)$                                |
+| $3$              | $(1,0)$                                     |
+| $4$              | $(0,1)$                                     |
+| $5$              |      $(1,2)$                                |
+
+In this case,
+$$
+\begin{align*}
+0 \mod 6 \equiv& (0\mod 2,0\mod 3)\\
+1\mod 6\equiv& (1\mod2,1\mod3)\\
+2\mod6\equiv&(0\mod2,2\mod3)\\
+3\mod6\equiv&(1\mod2,0\mod3)
+\end{align*}
+$$
+
+![[Pasted image 20230310200850.png]]

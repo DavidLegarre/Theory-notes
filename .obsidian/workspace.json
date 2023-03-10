@@ -13,13 +13,50 @@
             "state": {
               "type": "markdown",
               "state": {
+                "file": "Mathematics/Cryptography/Introduction to Cryptography.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d05f5547f6dee8ff",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
                 "file": "Mathematics/Number Theory/Chinese Remainder Theorem (C.R.T).md",
                 "mode": "source",
                 "source": false
               }
             }
+          },
+          {
+            "id": "ac5424d5acbc51b8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Latex Notation.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b39d5662c0c3398d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Mathematics/Number Theory/Modular arithmetic.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -101,8 +138,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -115,13 +151,19 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "b50163d67fe58244",
+  "active": "d05f5547f6dee8ff",
   "lastOpenFiles": [
-    "Mathematics/Number Theory/Modular arithmetic.md",
-    "Mathematics/Number Theory/Euclidean Algorithm.md",
+    "ZZPasted images/Pasted image 20230310200850.png",
+    "ZZPasted images/Pasted image 20230310200829.png",
+    "Latex Notation.md",
+    "Mathematics/General math notation.md",
+    "Mathematics/Number Theory/Chinese Remainder Theorem (C.R.T).md",
+    "Mathematics/Cryptography/Encryption schemas/RSA.md",
     "Mathematics/Cryptography/Introduction to Cryptography.md",
-    "Statistics/Probability theory/Central Limit Theorem.md",
+    "Mathematics/Number Theory/Modular arithmetic.md",
     "Mathematics/Cryptography/Study material/Cryptography exercises and Solutions.md",
+    "Mathematics/Number Theory/Euclidean Algorithm.md",
+    "Statistics/Probability theory/Central Limit Theorem.md",
     "Mathematics/Cryptography/Security/Block Ciphers.md",
     "Mathematics/Cryptography/Security/CPA and CCA Security.md",
     "Mathematics/Number Theory/Group Theory.md",
