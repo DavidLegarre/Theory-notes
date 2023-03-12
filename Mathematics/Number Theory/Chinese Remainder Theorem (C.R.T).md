@@ -13,7 +13,6 @@ The C.R.T. States that when working inside the set $\mathbb{Z}_{n}$ we can work 
 
 ```
 
-# Example
 
 $$
 \begin{align*}
@@ -40,4 +39,13 @@ $$
 \end{align*}
 $$
 
+# Example
+
+
 ![[Pasted image 20230310200850.png]]
+
+Then to calculate this:
+
+![[Pasted image 20230312171122.png]]
+
+(-5 and 4 are found using [[Euclidean Algorithm#Extended Euclidean Algorithm (EEA)|Extended Euclidean Algorithm]])
