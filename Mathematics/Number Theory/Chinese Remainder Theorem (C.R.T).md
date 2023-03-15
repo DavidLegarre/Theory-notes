@@ -49,3 +49,4 @@ Then to calculate this:
 ![[Pasted image 20230312171122.png]]
 
 (-5 and 4 are found using [[Euclidean Algorithm#Extended Euclidean Algorithm (EEA)|Extended Euclidean Algorithm]])
+
