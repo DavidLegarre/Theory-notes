@@ -26,4 +26,4 @@ The idea of this attack is that Eve has access to the intermediate steps of the 
 
 When the server decrypts this messages Eve will have $DES_{k_{2}}^{-1}(c)$ that as shown before is the same as $DES_{k_{1}}(m)$ which she has already precomputed. The moment she finds a collision between her table of $k_{1}$ and $c'$ she would've found the key pair.
 
-Thanks to this the security level has dropped significantly, now Eve only has to crack one of the two keys of length 56
+Thanks to this the security level has dropped significantly, now Eve only has to crack one of the two keys of length 56 resulting in a time complexity of $2·2^{56}=2^{57}$  

@@ -45,7 +45,7 @@ If $G$ is a cyclic group, then $|<g>|=\phi(|G|)$
 
 Let $G$ be a group:
 $$
-x^{ord(G)}=e
+\forall x\in G,\ x^{ord(G)}=e
 $$
 ## Lagrange Theorem
 
