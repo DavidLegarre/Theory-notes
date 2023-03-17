@@ -41,7 +41,8 @@ title:Confusion
 
 ```ad-abstract
 title: Diffusion
-
+Small changes in the plaintext result in significant changes in the 
+ciphertext. More precisely, in any modern block cipher, it is expected that a single bit change in the plaintext should result in at least half of the bits of the ciphertext changing.
 ```
 
 ## Basic parts of a Scheme

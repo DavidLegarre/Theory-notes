@@ -18,7 +18,10 @@ $$
 D_{sk}(c)\to m=c^{d}\mod n
 $$
 
+![[Pasted image 20230317173414.png]]
+
 # Encryption schema properties
+
 1. **Efficient algorithms**: keygen ([[Euclidean Algorithm|E.E.A]]), $E_{pk},D_{sk}$([[Modular arithmetic#Modular exponentiation|modular exponentiation]]) 
 2. **Correctness**: $D_{sk}(E_{pk}(m))=(m^e)^d=m$ 
 3. **Security**:

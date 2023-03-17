@@ -36,6 +36,7 @@ $$
 # Security
 
 - It is random, and $|G|=q$ is prime, so is [[CPA]] secure
-- It is malleable ([[CCA]] unsafe) $\hat{c}(c_{0}^{2},c_{1}^{2})\to m^{2}$ 
+- It is malleable ([[CCA]] unsafe) $\hat{c}(c_{0}^{2},c_{1}^{2})\to m^{2}$ (*multiplicative homomorphism*)
+* In the lifted case, malleability follows $\hat{c}(c^{2}_{0},c_{1}^{2})\to 2m$  
 - Complex to crack, we need to solve $\log_{g}(h)=x$ (hard problem)
  

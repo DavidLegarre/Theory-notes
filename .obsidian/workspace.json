@@ -13,7 +13,43 @@
             "state": {
               "type": "markdown",
               "state": {
+                "file": "Mathematics/Cryptography/Introduction to Cryptography.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "46abac870564502f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Mathematics/Cryptography/Encryption schemas/RSA.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "79c6feb96a61c89a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
                 "file": "Mathematics/Number Theory/Modular arithmetic.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "fe3807759f09fcab",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Mathematics/Number Theory/Group Theory.md",
                 "mode": "source",
                 "source": false
               }
@@ -77,7 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mathematics/Number Theory/Modular arithmetic.md",
+                "file": "Mathematics/Cryptography/Introduction to Cryptography.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,10 +153,13 @@
   "active": "2a0ac3bd029ca9f7",
   "lastOpenFiles": [
     "Mathematics/Cryptography/Encryption schemas/Elgamal.md",
-    "Mathematics/Number Theory/Modular arithmetic.md",
     "Mathematics/Number Theory/Group Theory.md",
-    "Mathematics/Cryptography/Encryption schemas/DES.md",
+    "ZZPasted images/Pasted image 20230317180417.png",
+    "Mathematics/Number Theory/Modular arithmetic.md",
     "Mathematics/Cryptography/Encryption schemas/RSA.md",
+    "ZZPasted images/Pasted image 20230317173414.png",
+    "Latex Notation.md",
+    "Mathematics/Cryptography/Encryption schemas/DES.md",
     "Mathematics/Cryptography/Introduction to Cryptography.md",
     "Mathematics/Cryptography/Security/Symmetric Encryption.md",
     "Mathematics/Cryptography/Encryption schemas/One-Time-Pad.md",
@@ -128,7 +167,6 @@
     "Mathematics/Cryptography/Encryption schemas/DES.canvas",
     "Mathematics/Cryptography/Encryption schemas/AES.md",
     "Mathematics/Number Theory/Chinese Remainder Theorem (C.R.T).md",
-    "Latex Notation.md",
     "Mathematics/Number Theory/Euclidean Algorithm.md",
     "ZZPasted images/Pasted image 20230312171122.png",
     "ZZPasted images/Pasted image 20230310200850.png",
