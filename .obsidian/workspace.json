@@ -4,52 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "7553c0b0878d4f2e",
+        "id": "6d2e46c8a57fc580",
         "type": "tabs",
         "children": [
           {
-            "id": "b50163d67fe58244",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Mathematics/Cryptography/Introduction to Cryptography.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "46abac870564502f",
+            "id": "e9b50afbbe19b100",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "Mathematics/Cryptography/Encryption schemas/RSA.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "79c6feb96a61c89a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Mathematics/Number Theory/Modular arithmetic.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "fe3807759f09fcab",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Mathematics/Number Theory/Group Theory.md",
                 "mode": "source",
                 "source": false
               }
@@ -113,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mathematics/Cryptography/Introduction to Cryptography.md",
+                "file": "Mathematics/Cryptography/Encryption schemas/RSA.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -150,23 +114,33 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "2a0ac3bd029ca9f7",
+  "active": "e9b50afbbe19b100",
   "lastOpenFiles": [
-    "Mathematics/Cryptography/Encryption schemas/Elgamal.md",
-    "Mathematics/Number Theory/Group Theory.md",
-    "ZZPasted images/Pasted image 20230317180417.png",
-    "Mathematics/Number Theory/Modular arithmetic.md",
+    "Mathematics/Cryptography/Summary Cripto.canvas",
     "Mathematics/Cryptography/Encryption schemas/RSA.md",
-    "ZZPasted images/Pasted image 20230317173414.png",
-    "Latex Notation.md",
+    "ZZPasted images/Pasted image 20230318211046.png",
+    "Mathematics/Number Theory/Chinese Remainder Theorem (C.R.T).md",
+    "Mathematics/Number Theory/Number Theory.canvas",
+    "Mathematics/Number Theory/Group Theory.md",
+    "Mathematics/Number Theory/Modular arithmetic.md",
+    "Mathematics/Number Theory/Modular Equations.canvas",
+    "Mathematics/Number Theory/Number theory.canvas.md",
+    "Untitled.md",
+    "Mathematics/Cryptography/Security/Diffie–Hellman.md",
+    "Mathematics/Cryptography/Encryption schemas/DES.canvas",
+    "Mathematics/Cryptography/Encryption schemas/Encryption schema properties.md",
+    "Mathematics/Cryptography/Encryption schemas/Elgamal.md",
     "Mathematics/Cryptography/Encryption schemas/DES.md",
     "Mathematics/Cryptography/Introduction to Cryptography.md",
     "Mathematics/Cryptography/Security/Symmetric Encryption.md",
+    "Mathematics/Cryptography/Security/CPA and CCA Security.md",
+    "ZZPasted images/Pasted image 20230318192233.png",
+    "Mathematics/Cryptography/Untitled.md",
+    "ZZPasted images/Pasted image 20230317180417.png",
+    "ZZPasted images/Pasted image 20230317173414.png",
+    "Latex Notation.md",
     "Mathematics/Cryptography/Encryption schemas/One-Time-Pad.md",
-    "Mathematics/Cryptography/Encryption schemas/Encryption schema properties.md",
-    "Mathematics/Cryptography/Encryption schemas/DES.canvas",
     "Mathematics/Cryptography/Encryption schemas/AES.md",
-    "Mathematics/Number Theory/Chinese Remainder Theorem (C.R.T).md",
     "Mathematics/Number Theory/Euclidean Algorithm.md",
     "ZZPasted images/Pasted image 20230312171122.png",
     "ZZPasted images/Pasted image 20230310200850.png",
@@ -175,7 +149,6 @@
     "Mathematics/Cryptography/Study material/Cryptography exercises and Solutions.md",
     "Statistics/Probability theory/Central Limit Theorem.md",
     "Mathematics/Cryptography/Security/Block Ciphers.md",
-    "Mathematics/Cryptography/Security/CPA and CCA Security.md",
     "Statistics/Probability theory/Probabilities Properties.md"
   ]
 }
