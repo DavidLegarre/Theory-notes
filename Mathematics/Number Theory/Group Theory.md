@@ -48,14 +48,14 @@ $$
 $$
 If $G$ is a cyclic group, then $|<g>|=\phi(|G|)$ 
 
-## Check if a group has a generator
+### Check if a group has a generator
 
 Let $g$ be the suspected generator of group $G$. Let $d=\{1,\dots\},d\mid|G|$. 
 Then let $M=|G|$, if $g^{d}\not=1\ \forall\ d\mid M$, then $g$ is a generator.
 
-### Example
+#### Example
 
-To find all the generators of the group $\mathbb{Z}_{11}^{*}$. We know its size is $m=\varphi(11)=10$. The divisors (or factors) of $10$ are $\{2^{1}, 5^{1}\}$. 
+To find all the generators of the group $\mathbb{Z}_{11}^{*}$. We know its size is $m=\varphi(11)=10$. The divisors (or factors) of $10$ are $\{2^{1}, 5^{1}\}=\{1,2,5,10\}$.  We omit 10 since from Euler's theorem we know that $\forall a,\ a^{10}\mod11=1$.
 
 Then $\forall a \in \mathbb{Z}_{11}^{*}$:
 

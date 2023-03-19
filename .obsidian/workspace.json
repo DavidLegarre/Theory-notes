@@ -4,22 +4,53 @@
     "type": "split",
     "children": [
       {
-        "id": "6d2e46c8a57fc580",
+        "id": "40ffa508dd5222a9",
         "type": "tabs",
         "children": [
           {
-            "id": "e9b50afbbe19b100",
+            "id": "cb8d23bfaf8fdb6d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mathematics/Cryptography/Encryption schemas/RSA.md",
+                "file": "Mathematics/Number Theory/Group Theory.md",
                 "mode": "source",
                 "source": false
               }
             }
+          },
+          {
+            "id": "3e5e73a11e1249cd",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "Mathematics/Cryptography/Summary Cripto.canvas",
+                "viewState": {
+                  "x": 1596,
+                  "y": 430,
+                  "zoom": -2.6744276052377325
+                }
+              }
+            }
+          },
+          {
+            "id": "7ceceefb4bcce5bc",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "Mathematics/Number Theory/Number Theory.canvas",
+                "viewState": {
+                  "x": 2329.5968892285714,
+                  "y": 1953.8056605687923,
+                  "zoom": -1.18107501343525
+                }
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -77,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mathematics/Cryptography/Encryption schemas/RSA.md",
+                "file": "Mathematics/Number Theory/Number Theory.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,14 +145,14 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "e9b50afbbe19b100",
+  "active": "7ceceefb4bcce5bc",
   "lastOpenFiles": [
+    "Mathematics/Number Theory/Group Theory.md",
     "Mathematics/Cryptography/Summary Cripto.canvas",
+    "Mathematics/Number Theory/Number Theory.canvas",
     "Mathematics/Cryptography/Encryption schemas/RSA.md",
     "ZZPasted images/Pasted image 20230318211046.png",
     "Mathematics/Number Theory/Chinese Remainder Theorem (C.R.T).md",
-    "Mathematics/Number Theory/Number Theory.canvas",
-    "Mathematics/Number Theory/Group Theory.md",
     "Mathematics/Number Theory/Modular arithmetic.md",
     "Mathematics/Number Theory/Modular Equations.canvas",
     "Mathematics/Number Theory/Number theory.canvas.md",
