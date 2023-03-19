@@ -53,6 +53,25 @@ If $G$ is a cyclic group, then $|<g>|=\phi(|G|)$
 Let $g$ be the suspected generator of group $G$. Let $d=\{1,\dots\},d\mid|G|$. 
 Then let $M=|G|$, if $g^{d}\not=1\ \forall\ d\mid M$, then $g$ is a generator.
 
+The number of generators is given by:
+$$
+\varphi(ord(G))
+$$
+In the case of modular arithmetic:
+$$
+\varphi(\varphi(n))
+$$
+
+
+The generators are for each divisor $k$ of $ord(G)$ we then have that the subgroups can be 
+generated as $\langle a^{\frac{ord(G)}{k}}\rangle$ where $a$ is a generator of the group $G$. 
+In the case of $\mathbb{Z}_{13}^{*}$ with $2$ as a generator of the group:
+
+The number of generators is computed as $\varphi(|\mathbb{Z}_{p}^{*}|)$  with $p=13$, the result is $4$. You will notice that $2$ is a generator that $\langle2\rangle=\mathbb{Z}_{13}^{*}$.  The other generators of the group are those $\alpha$ values such that $2^{\alpha}\gets{gcd(12,\alpha)=1}\mod13$. 
+![[Pasted image 20230319213732.png]]
+
+$\{3,4,8,12\}$ are the generators of the subgroups of $\mathbb{Z}_{13}^{*}$
+
 #### Example
 
 To find all the generators of the group $\mathbb{Z}_{11}^{*}$. We know its size is $m=\varphi(11)=10$. The divisors (or factors) of $10$ are $\{2^{1}, 5^{1}\}=\{1,2,5,10\}$.  We omit 10 since from Euler's theorem we know that $\forall a,\ a^{10}\mod11=1$.

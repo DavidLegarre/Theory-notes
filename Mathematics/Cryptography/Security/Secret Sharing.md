@@ -1,23 +1,35 @@
-# Secret sharing
-Protocol to share keys between multiple people
-$$
-(n,t)
-$$
-Where $n$ is the total number of people to be shared the key with, and $t$ is the minimum amount of people that must be at the same time to recover the secret key. So, $t<n$ must always hold. 
-Each member also has assigned a value $s$ 
+```ad-summary 
+title:Defintion 
+Secret Sharing is a system to share secret messages only when a minimum number of participants is met. Let $n$ be the total number of participants and $t$ the threshold (minimum) number of participants needed to recover the secret shared
+```
 
-## Recovering secret key
-To recover the secret key, we must evaluate the polynomial formed by the **Lagrange polynomials** and evaluate them at $0$. Also, given a private value $p$.
+These method consists of two algorithms *sharing* and *reconstructing*
 
-**Lagrange polynomials**: 
+# Sharing algorithm
+
+The idea is to hide the message inside a polynomial: 
+Let $a_{1},\ldots,a_{t-1} \in \mathbb{Z}_{p}^{*}$ chosen uniformly and let $S$ be the secret.
 $$
-\lambda_{i}^{i,j}(x)=\prod
-_{i,j\in I\ i\not=j}
-\frac{x-j}{i-j}
+f(x)=S+a_{1}x+a_{2}x^{2}+\ldots+a_{t-1}x^{t-1}\mod p
+$$
+We then can find $S$ when evaluating $f(x)$ at $f(0)$ (by default, unless said otherwise).
+
+Case: $n=t$
+
+$$
+S=S_{1}+\ldots+S_{n}
 $$
 
-Final polynomial for the set of participants $\{1,2\}$ when $t=2$:
+# Reconstructing
+
+## Shamir
+
+Let $f(x)$, and $I$ the set of participants that shared the secret:
 $$
-s=s_1\lambda_{1}^{1,2}(0)+s_2\lambda_{2}^{1,2}(0)\mod p
+f(x)=\sum\limits_{i \in I}a_{i}\delta_{i}(x)
 $$
 
+Where $\delta_{i}(x)$ is defined as:
+$$
+\delta_{i}(x)=\underset{j \in I\setminus i}{\Pi}\frac{x-j}{i-j}
+$$

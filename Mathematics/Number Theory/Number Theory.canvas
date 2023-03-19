@@ -1,8 +1,8 @@
 {
 	"nodes":[
 		{"type":"group","id":"6145fb0601a81e7c","x":-1113,"y":-1140,"width":2434,"height":1700,"label":"Modular Arithmetic"},
+		{"type":"group","id":"c9107d5acdb09b88","x":1740,"y":720,"width":1560,"height":2220,"label":"Group Theory"},
 		{"type":"group","id":"50f16e51eccab734","x":-1074,"y":1241,"width":1469,"height":2339,"label":"Theorems"},
-		{"type":"group","id":"c9107d5acdb09b88","x":1740,"y":720,"width":1459,"height":1229,"label":"Group Theory"},
 		{"type":"group","id":"41cfdd4269ac7f9a","x":-1054,"y":2300,"width":694,"height":400,"label":"Theorems in Groups"},
 		{"type":"text","text":"\n## Lagrange Theorem\n\n$$\nH\\subseteq G\\to ord(H)|ord(G)\n$$\n\nWhere $|$ means that it divides.","id":"1719cc9692ff1730","x":-1034,"y":2520,"width":654,"height":160},
 		{"type":"text","text":"\n## Euler's Theorem (Groups)\n\nLet $G$ be a group:\n$$\n\\forall x\\in G,\\ x^{ord(G)}=e\n$$","id":"db2ab483b4eb2117","x":-1034,"y":2320,"width":654,"height":160},
@@ -22,7 +22,7 @@
 		{"type":"text","text":"# Order of a group\n\n\nThe order of a group is the number of elements in $\\mathbb{G}$:\n$$\n\\begin{align*}\nord(\\mathbb{G})&=|\\mathbb{G}|\\\\\nord(\\mathbb{Z}_{5}^{*})&=4=\\phi(5)\n\\end{align*}\n$$","id":"215c7632712c5dae","x":1760,"y":1362,"width":566,"height":200},
 		{"type":"text","text":"\n## Subgroups\n\nDefined as:\n$$\nH\\subseteq \\mathbb{G}\n$$\n$H$ has the same properties of $\\mathbb{G}$. So $H$ is also a group","id":"57d8d350dc08b7c6","x":2518,"y":905,"width":475,"height":212},
 		{"type":"text","text":"# Definition of Group\n\nA group is a set of elements associated to an operation $(G, \\circ)$. It must fulfill 3 **properties**:\n\n1. **Closure**:\n   $$a,b \\in G\\to (a\\circ b) \\in G$$\n2. **Associativity**:\n   $$\n   a,b,c \\in G\\to (a\\circ b)\\circ c = a\\circ(b\\circ c)\n$$\n3. **Identity**:\n$$\ne \\in G \\to \\forall a \\in G,\\ a\\circ e=e\\circ a=a\n$$\n4. **Inverses**:\n   $$\n   \\forall a \\in G, \\exists\\ a^{-1},\\ a\\circ a^{-1}=a^{-1}\\circ a =e\n$$","id":"bf5eb93848b25d6b","x":1760,"y":740,"width":566,"height":542},
-		{"id":"23388e481fd51f9f","x":2498,"y":1142,"width":600,"height":780,"type":"file","file":"Mathematics/Number Theory/Group Theory.md","subpath":"#Generators"}
+		{"id":"23388e481fd51f9f","x":2498,"y":1142,"width":701,"height":1758,"type":"file","file":"Mathematics/Number Theory/Group Theory.md","subpath":"#Generators"}
 	],
 	"edges":[
 		{"id":"5b9f0258102fa180","fromNode":"947e368bb4936cfe","fromSide":"right","toNode":"8519ee2f50a0fa25","toSide":"left"},
