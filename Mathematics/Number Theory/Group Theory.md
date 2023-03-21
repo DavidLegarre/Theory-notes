@@ -67,8 +67,9 @@ The generators are for each divisor $k$ of $ord(G)$ we then have that the subgro
 generated as $\langle a^{\frac{ord(G)}{k}}\rangle$ where $a$ is a generator of the group $G$. 
 In the case of $\mathbb{Z}_{13}^{*}$ with $2$ as a generator of the group:
 
-The number of generators is computed as $\varphi(|\mathbb{Z}_{p}^{*}|)$  with $p=13$, the result is $4$. You will notice that $2$ is a generator that $\langle2\rangle=\mathbb{Z}_{13}^{*}$.  The other generators of the group are those $\alpha$ values such that $2^{\alpha}\gets{gcd(12,\alpha)=1}\mod13$. 
-![[Pasted image 20230319213732.png]]
+The number of generators is computed as $\varphi(|\mathbb{Z}_{p}^{*}|)$  with $p=13$, the result is $4$. You will notice that $2$ is a generator that $\langle2\rangle=\mathbb{Z}_{13}^{*}$.  The other generators of the group are those $\alpha$ values such that $2^{\alpha}\gets{gcd(12,\alpha)=1}\mod13$.  In other words, find all values coprime with $\varphi(\mathbb{Z}_{p}^{*})$ 
+
+![[Pasted image 20230320205956.png]]
 
 $\{3,4,8,12\}$ are the generators of the subgroups of $\mathbb{Z}_{13}^{*}$
 

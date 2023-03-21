@@ -27,9 +27,9 @@
               "state": {
                 "file": "Mathematics/Cryptography/Summary Cripto.canvas",
                 "viewState": {
-                  "x": -757.0087462088221,
-                  "y": -1994.3884873655072,
-                  "zoom": -0.34109427190439917
+                  "x": 2251.7880834783195,
+                  "y": -679.4688906583692,
+                  "zoom": 0.32557239476226746
                 }
               }
             }
@@ -107,7 +107,7 @@
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -165,7 +165,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mathematics/Cryptography/Security/Secret Sharing.md",
+                "file": "Mathematics/Cryptography/Summary Cripto.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -202,16 +202,17 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "7ceceefb4bcce5bc",
+  "active": "3e5e73a11e1249cd",
   "lastOpenFiles": [
+    "Mathematics/Number Theory/Group Theory.md",
+    "ZZPasted images/Pasted image 20230320205956.png",
+    "Mathematics/Cryptography/Summary Cripto.canvas",
+    "Temp.md",
+    "Mathematics/Number Theory/Sage Math Number Theory.md",
     "Latex Notation.md",
     "General math notation.md",
-    "Temp.md",
     "Mathematics/Cryptography/Security/Secret Sharing.md",
     "Mathematics/Number Theory/Number Theory.canvas",
-    "Mathematics/Number Theory/Group Theory.md",
-    "Mathematics/Number Theory/Sage Math Number Theory.md",
-    "Mathematics/Cryptography/Summary Cripto.canvas",
     "ZZPasted images/Pasted image 20230319213732.png",
     "Mathematics/Cryptography/Security/Attacks.md",
     "ZZPasted images/quickref-nt 1.pdf",
@@ -242,7 +243,6 @@
     "ZZPasted images/Pasted image 20230310200829.png",
     "Mathematics/Cryptography/Study material/Cryptography exercises and Solutions.md",
     "Statistics/Probability theory/Central Limit Theorem.md",
-    "Mathematics/Cryptography/Security/Block Ciphers.md",
-    "Statistics/Probability theory/Probabilities Properties.md"
+    "Mathematics/Cryptography/Security/Block Ciphers.md"
   ]
 }
