@@ -83,6 +83,7 @@ Then $\forall a \in \mathbb{Z}_{11}^{*}$:
 
 Then we know that all the generators of $\mathbb{Z}_{11}^{*}$ are $\{2,6,7,8\}$ 
 
+
 ## Euler's Theorem
 
 Let $G$ be a group:

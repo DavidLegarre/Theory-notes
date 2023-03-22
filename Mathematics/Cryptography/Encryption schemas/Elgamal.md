@@ -3,18 +3,20 @@ Connects to: [[Encryption schema properties]]
 
 ## Keygen
 
-1. On an input security parameter $\lambda$, choose a cyclic group $G$ of prime order $p$, and a generator $g$ of $G$.  Choosing $p\ s.t.\ p=2q+1$ where $q$ is a prime number. 
+1. On an input security parameter $\lambda$, choose a cyclic group $G$ of prime order $q$, and a generator $g$ of $G$.  
+	1. This group $G$ is a subgroup of the multiplicative group $\mathbb{Z}_{p}^{*}$. Choosing $p\ s.t.\ p=2q+1$ where $q$ is a prime number. 
 2. With $|G|=q$
-3. Sample $x\ s.t.\ x\in\mathbb{Z}_{n}^{*}$, then: $s_{k}=x$ and with $H=g^{x}$   then:  $p_{k}=(g,h)$ 
+3. Sample $x\ s.t.\ x\in\mathbb{Z}_{p}^{*}$, then: $s_{k}=x$ and with $H=g^{x}$   then:  $p_{k}=(g,h)$ 
+
 
 ## Encryption
 
-With a random $r\in\mathbb{Z}_{q}^{*}$
+With a random $r\in\mathbb{Z}_{p}$ and a message $m \in \mathbb{Z}_{p}$
 
 * **Classic**:
-	* $c=(c_{0},c_{1})=(g^{r},m·h^{r})$
+	* $c=(c_{0},c_{1})=(g^{r},m·h^{r})\mod p$
 * **Lifted**:
-	* $c=(c_{0},c_{1})=(g^{r}, g^{m}·h^{r})$
+	* $c=(c_{0},c_{1})=(g^{r}, g^{m}·h^{r})\mod p$
 
 ## Decryption 
 

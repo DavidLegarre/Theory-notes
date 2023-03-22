@@ -14,6 +14,13 @@ f(x)=S+a_{1}x+a_{2}x^{2}+\ldots+a_{t-1}x^{t-1}\mod p
 $$
 We then can find $S$ when evaluating $f(x)$ at $f(0)$ (by default, unless said otherwise).
 
+Shamir:
+
+For $i \in \{1,\ldots,n\}$ each user receives their secret as:
+$$
+s_{i}=(i,f(i)\mod p)
+$$
+
 Case: $n=t$
 
 $$
