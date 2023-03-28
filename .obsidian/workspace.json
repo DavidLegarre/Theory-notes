@@ -4,125 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "40ffa508dd5222a9",
+        "id": "e9fbc6e1843ab64b",
         "type": "tabs",
         "children": [
           {
-            "id": "cb8d23bfaf8fdb6d",
+            "id": "2e84e1c80133c0e9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mathematics/Cryptography/Encryption schemas/Elgamal.md",
+                "file": "Statistics/Probability theory/Central Limit Theorem.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "3e5e73a11e1249cd",
-            "type": "leaf",
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "Mathematics/Cryptography/Summary Cripto.canvas",
-                "viewState": {
-                  "x": -157.79977781232242,
-                  "y": 3414.862491957954,
-                  "zoom": -1.0077609385710657
-                }
-              }
-            }
-          },
-          {
-            "id": "642a1a943aa33186",
-            "type": "leaf",
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "Mathematics/Number Theory/Number Theory.canvas",
-                "viewState": {
-                  "x": 3135.709119956926,
-                  "y": 2802.284593474479,
-                  "zoom": -0.3333333333333334
-                }
-              }
-            }
-          },
-          {
-            "id": "a49f00cc33bb6195",
+            "id": "5d7de282cd361d44",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mathematics/Number Theory/Group Theory.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "42fb00e47e9ebb21",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Temp.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "343f962c5d0178c5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Latex Notation.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "4e2bf981c05c7229",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "General math notation.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c627b4ebd9bbd182",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Latex Notation.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "7ceceefb4bcce5bc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Mathematics/Cryptography/Security/Secret Sharing.md",
+                "file": "Statistics/Inference/Numerical Data/One-sample means with the t-distribution.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -180,7 +90,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mathematics/Number Theory/Group Theory.md",
+                "file": "Statistics/Inference/Numerical Data/One-sample means with the t-distribution.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -218,48 +128,52 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "a49f00cc33bb6195",
+  "active": "5d7de282cd361d44",
   "lastOpenFiles": [
+    "Statistics/Probability theory/Central Limit Theorem.md",
+    "Statistics/Inference/Numerical Data/One-sample means with the t-distribution.md",
+    "Statistics/Inference/Numerical Data",
+    "Statistics/Inference",
+    "ZZPasted images/Pasted image 20230328151001.png",
+    "ZZPasted images/Pasted image 20230328150928.png",
+    "ZZPasted images/Untitled.png",
+    "ZZPasted images/Pasted image 20230328150809.png",
+    "ZZPasted images/Pasted image 20230328150758.png",
+    "Statistics/Data Sampling.md",
+    "Statistics/Organization of Data.md",
+    "Statistics/Basic Statistics/Descriptive Statistics.md",
+    "Statistical learning.md",
+    "Statistics/Statistical learning.md",
+    "ZZPasted images/Pasted image 20230328143618.png",
+    "Statistics/PGM Algorithms/Belief propagation.md",
+    "Statistics/Probability theory/expected value.md",
+    "Statistics/Probability theory/Probabilistic Graphical Models.md",
+    "Statistics/Probability theory/Probabilities Properties.md",
+    "Statistics/Probability theory/Probability.md",
+    "Statistics/Probability theory/Random variables.md",
+    "ZZPasted images/Pasted image 20230327144317.png",
+    "Statistics/Basic Statistics/Distance of Samples.md",
+    "Statistics/Basic Statistics",
+    "Computer Science/Git.md",
+    "Computer Science/Languages/Solid.md",
+    "Computer Science/Languages/Python.md",
+    "Computer Science/Languages/Python/Strings.md",
+    "Computer Science/Languages/Python/Special methods.md",
+    "Computer Science/Languages/Python/PEP8.md",
+    "Computer Science/Languages/Python/Data Structures/Lists.md",
+    "Computer Science/Blockchain/Tokens.md",
+    "Computer Science/Blockchain/Smart contracts.md",
+    "Computer Science/Blockchain/Consensus protocol.md",
+    "Computer Science/Blockchain/Blockchain applications.md",
+    "Computer Science/Blockchain/Blockchain.md",
     "Mathematics/Number Theory/Number Theory.canvas",
     "Mathematics/Cryptography/Summary Cripto.canvas",
-    "Mathematics/Cryptography/Encryption schemas/Elgamal.md",
-    "Mathematics/Cryptography/Security/Secret Sharing.md",
-    "Mathematics/Number Theory/Group Theory.md",
-    "Mathematics/Cryptography/Encryption schemas/RSA.md",
-    "Mathematics/Cryptography/Security/Attacks.md",
     "ZZPasted images/Pasted image 20230321185835.png",
-    "Mathematics/Cryptography/Security/Untitled.md",
-    "Mathematics/Number Theory/Sage Math Number Theory.md",
     "ZZPasted images/Pasted image 20230320205956.png",
-    "Temp.md",
-    "Latex Notation.md",
-    "General math notation.md",
     "ZZPasted images/Pasted image 20230319213732.png",
     "ZZPasted images/quickref-nt 1.pdf",
     "ZZPasted images/quickref-nt.pdf",
-    "ZZPasted images/Pasted image 20230318211046.png",
-    "Mathematics/Number Theory/Chinese Remainder Theorem (C.R.T).md",
-    "Mathematics/Number Theory/Modular arithmetic.md",
     "Mathematics/Number Theory/Modular Equations.canvas",
-    "Mathematics/Number Theory/Number theory.canvas.md",
-    "Mathematics/Cryptography/Security/Diffie–Hellman.md",
-    "Mathematics/Cryptography/Encryption schemas/DES.canvas",
-    "Mathematics/Cryptography/Encryption schemas/Encryption schema properties.md",
-    "Mathematics/Cryptography/Encryption schemas/DES.md",
-    "Mathematics/Cryptography/Introduction to Cryptography.md",
-    "Mathematics/Cryptography/Security/Symmetric Encryption.md",
-    "Mathematics/Cryptography/Security/CPA and CCA Security.md",
-    "ZZPasted images/Pasted image 20230318192233.png",
-    "Mathematics/Cryptography/Untitled.md",
-    "ZZPasted images/Pasted image 20230317180417.png",
-    "ZZPasted images/Pasted image 20230317173414.png",
-    "Mathematics/Cryptography/Encryption schemas/One-Time-Pad.md",
-    "Mathematics/Cryptography/Encryption schemas/AES.md",
-    "Mathematics/Number Theory/Euclidean Algorithm.md",
-    "ZZPasted images/Pasted image 20230312171122.png",
-    "ZZPasted images/Pasted image 20230310200850.png",
-    "ZZPasted images/Pasted image 20230310200829.png",
-    "Mathematics/Cryptography/Study material/Cryptography exercises and Solutions.md",
-    "Statistics/Probability theory/Central Limit Theorem.md"
+    "Mathematics/Cryptography/Encryption schemas/DES.canvas"
   ]
 }

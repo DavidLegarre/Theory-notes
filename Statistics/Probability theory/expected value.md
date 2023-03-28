@@ -9,7 +9,7 @@ The expected value of a random variable $X$ is often denoted by $E(X)$, $E[X]$, 
 
 ## When the random variable has finitely many outcomes:
 
-Consider a [[random variable]] $X$ with a *finite* list of possible outcomes, each of which has 
+Consider a [[Random variables]] $X$ with a *finite* list of possible outcomes, each of which has 
 probability $p_{1},\ldots,p_{k}$ of occurring. The **expectation** of $X$ is defined as:
 $$
 E[X]=x_{1}p_{1}+x_{2}p_{2}+\ldots+x_{k}p_{k}

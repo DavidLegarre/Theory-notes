@@ -1,3 +1,4 @@
+relates to: [[Graph]]
 # Belief Propagation
 
 Basic idea:

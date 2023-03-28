@@ -44,9 +44,10 @@ A subgroup $x$ is a generator if: $|x|=|G|$
 
 $G$ is a cyclic group if it's finite and has a generator:
 $$
-<g>=\{g^{k}\}=G
+\langle g\rangle=g^{k}\}=G
 $$
-If $G$ is a cyclic group, then $|<g>|=\phi(|G|)$ 
+
+If $G$ is a cyclic group, then $|\langle g\rangle|=\varphi(G)$ 
 
 ### Check if a group has a generator
 
