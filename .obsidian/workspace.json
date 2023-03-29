@@ -8,24 +8,36 @@
         "type": "tabs",
         "children": [
           {
-            "id": "2e84e1c80133c0e9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Statistics/Probability theory/Central Limit Theorem.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "5d7de282cd361d44",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "Statistics/Inference/Numerical Data/One-sample means with the t-distribution.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "5ac1290d80ad8666",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Statistics/Inference/Hypothesis Testing.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "dbd803abbe935c95",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Confidence Interval.md",
                 "mode": "source",
                 "source": false
               }
@@ -90,7 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Statistics/Inference/Numerical Data/One-sample means with the t-distribution.md",
+                "file": "Statistics/Inference/Hypothesis Testing.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,8 +140,15 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "5d7de282cd361d44",
+  "active": "5ac1290d80ad8666",
   "lastOpenFiles": [
+    "ZZPasted images/Pasted image 20230329192520.png",
+    "ZZPasted images/Pasted image 20230329192249.png",
+    "ZZPasted images/Pasted image 20230329192239.png",
+    "Confidence Interval.md",
+    "Statistics/Inference/Hypothesis Testing.md",
+    "ZZPasted images/Pasted image 20230329191540.png",
+    "Latex Notation.md",
     "Statistics/Probability theory/Central Limit Theorem.md",
     "Statistics/Inference/Numerical Data/One-sample means with the t-distribution.md",
     "Statistics/Inference/Numerical Data",
@@ -162,15 +181,8 @@
     "Computer Science/Languages/Python/PEP8.md",
     "Computer Science/Languages/Python/Data Structures/Lists.md",
     "Computer Science/Blockchain/Tokens.md",
-    "Computer Science/Blockchain/Smart contracts.md",
-    "Computer Science/Blockchain/Consensus protocol.md",
-    "Computer Science/Blockchain/Blockchain applications.md",
-    "Computer Science/Blockchain/Blockchain.md",
     "Mathematics/Number Theory/Number Theory.canvas",
     "Mathematics/Cryptography/Summary Cripto.canvas",
-    "ZZPasted images/Pasted image 20230321185835.png",
-    "ZZPasted images/Pasted image 20230320205956.png",
-    "ZZPasted images/Pasted image 20230319213732.png",
     "ZZPasted images/quickref-nt 1.pdf",
     "ZZPasted images/quickref-nt.pdf",
     "Mathematics/Number Theory/Modular Equations.canvas",

@@ -1,3 +1,5 @@
+Relates to: [[Hypothesis Testing]]
+
 ```ad-summary 
 title:Defintion 
 The sample mean tends to follow a normal distribution centered at the population mean, $\mu$, when certain conditions are met.
