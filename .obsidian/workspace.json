@@ -8,36 +8,24 @@
         "type": "tabs",
         "children": [
           {
-            "id": "5d7de282cd361d44",
+            "id": "fe6cbe3c0eee9cd9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Statistics/Inference/Numerical Data/One-sample means with the t-distribution.md",
+                "file": "Computer Science/Languages/Python/Strings.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "5ac1290d80ad8666",
+            "id": "df6b81264bb26dca",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Statistics/Inference/Hypothesis Testing.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "dbd803abbe935c95",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Confidence Interval.md",
+                "file": "Computer Science/Languages/Python/Best Practices.md",
                 "mode": "source",
                 "source": false
               }
@@ -102,7 +90,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Statistics/Inference/Hypothesis Testing.md",
+                "file": "Computer Science/Languages/Python/Best Practices.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,8 +114,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -140,47 +127,51 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "5ac1290d80ad8666",
+  "active": "df6b81264bb26dca",
   "lastOpenFiles": [
+    "Computer Science/Languages/Python/Strings.md",
+    "Computer Science/Languages/Python/Best Practices.md",
+    "Computer Science/Languages/Python/Special methods.md",
+    "Statistics/Inference/Hypothesis Testing.md",
+    "Statistics/Inference/Linear Regression.md",
+    "Computer Science/Big Data/Deep Learning/Convolutional NN/Convolutional NN.md",
+    "Computer Science/Big Data/Data Engineering/Data WareHouse/Data Warehouse.md",
+    "ZZPasted images/Pasted image 20230420201706.png",
+    "Untitled 1.md",
+    "ZZPasted images/Pasted image 20230420200557.png",
+    "Computer Science/Big Data/Big Data.md",
+    "Computer Science/Big Data/Data Engineering/Data WareHouse",
+    "Computer Science/Big Data/Data Engineering",
+    "Mathematics/Discrete mathematics/Set Theory/Theory of Sets.md",
+    "General math notation.md",
+    "ZZPasted images/Pasted image 20230408202756.png",
+    "Latex Notation.md",
+    "ZZPasted images/Pasted image 20230408202434.png",
+    "ZZPasted images/Pasted image 20230408202201.png",
+    "Confidence Interval.md",
+    "Untitled.md",
+    "Mathematics/Topology/Topology.md",
+    "Computer Science/Big Data/AWS/Cloud practitioner/Cloud Computing.md",
+    "Mathematics/Discrete mathematics/Set Theory",
+    "Mathematics/Topology",
+    "Computer Science/Big Data/AWS/Cloud practitioner/Client-server model.md",
+    "Computer Science/Big Data/Deep Learning/Pytorch Cheat Sheet.md",
+    "Computer Science/Big Data/Machine Learning/Machine Learning.md",
     "ZZPasted images/Pasted image 20230329192520.png",
     "ZZPasted images/Pasted image 20230329192249.png",
     "ZZPasted images/Pasted image 20230329192239.png",
-    "Confidence Interval.md",
-    "Statistics/Inference/Hypothesis Testing.md",
     "ZZPasted images/Pasted image 20230329191540.png",
-    "Latex Notation.md",
     "Statistics/Probability theory/Central Limit Theorem.md",
     "Statistics/Inference/Numerical Data/One-sample means with the t-distribution.md",
     "Statistics/Inference/Numerical Data",
     "Statistics/Inference",
     "ZZPasted images/Pasted image 20230328151001.png",
-    "ZZPasted images/Pasted image 20230328150928.png",
-    "ZZPasted images/Untitled.png",
-    "ZZPasted images/Pasted image 20230328150809.png",
-    "ZZPasted images/Pasted image 20230328150758.png",
     "Statistics/Data Sampling.md",
     "Statistics/Organization of Data.md",
     "Statistics/Basic Statistics/Descriptive Statistics.md",
     "Statistical learning.md",
     "Statistics/Statistical learning.md",
-    "ZZPasted images/Pasted image 20230328143618.png",
-    "Statistics/PGM Algorithms/Belief propagation.md",
-    "Statistics/Probability theory/expected value.md",
-    "Statistics/Probability theory/Probabilistic Graphical Models.md",
-    "Statistics/Probability theory/Probabilities Properties.md",
-    "Statistics/Probability theory/Probability.md",
-    "Statistics/Probability theory/Random variables.md",
-    "ZZPasted images/Pasted image 20230327144317.png",
-    "Statistics/Basic Statistics/Distance of Samples.md",
     "Statistics/Basic Statistics",
-    "Computer Science/Git.md",
-    "Computer Science/Languages/Solid.md",
-    "Computer Science/Languages/Python.md",
-    "Computer Science/Languages/Python/Strings.md",
-    "Computer Science/Languages/Python/Special methods.md",
-    "Computer Science/Languages/Python/PEP8.md",
-    "Computer Science/Languages/Python/Data Structures/Lists.md",
-    "Computer Science/Blockchain/Tokens.md",
     "Mathematics/Number Theory/Number Theory.canvas",
     "Mathematics/Cryptography/Summary Cripto.canvas",
     "ZZPasted images/quickref-nt 1.pdf",
