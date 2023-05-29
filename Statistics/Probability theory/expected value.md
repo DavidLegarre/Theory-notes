@@ -17,7 +17,7 @@ $$
 
 ### When the random variable is a density:
 
-Now, consider $X$ to have a [[probability density function]] given by a function $f$:
+Now, consider $X$ to have a [[Probability Density Function (PDF)]] given by a function $f$:
 $$
 E[X]=\int_{-\infty}^{\infty}xf(x)dx
 $$

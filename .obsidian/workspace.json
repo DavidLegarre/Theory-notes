@@ -20,12 +20,12 @@
             }
           },
           {
-            "id": "d695e603a8ca8339",
+            "id": "a0f84dd298c2c4de",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Statistics/Probability theory/Probability Mass Function (PMF).md",
+                "file": "Statistics/Probability theory/Random variables.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Statistics/Probability theory/Probability Mass Function (PMF).md",
+                "file": "Statistics/Probability theory/Random variables.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -136,15 +136,19 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "d695e603a8ca8339",
+  "active": "a0f84dd298c2c4de",
   "lastOpenFiles": [
-    "ZZPasted images/Pasted image 20230529202225.png",
+    "ZZPasted images/Pasted image 20230529204624.png",
+    "Statistics/Probability theory/Probability Density Function (PDF).md",
     "Statistics/Probability Distributions/Bernoulli distribution.md",
+    "Statistics/Probability theory/Random variables.md",
+    "Statistics/Probability theory/Probability.md",
+    "Statistics/Probability theory/Probability Mass Function (PMF).md",
+    "ZZPasted images/Pasted image 20230529202225.png",
     "Statistics/Probability theory/Cumulative Distribution Function (CDF).md",
     "ZZPasted images/Pasted image 20230529202017.png",
     "ZZPasted images/Pasted image 20230529202009.png",
     "ZZPasted images/Pasted image 20230529201956.png",
-    "Statistics/Probability theory/Probability Mass Function (PMF).md",
     "Statistics/Probability Distributions.md",
     "Statistics/Probability Distributions/Normal Distribution.md",
     "Statistics/Probability Distributions/Gamma distribution.md",
@@ -166,9 +170,6 @@
     "Untitled.md",
     "Statistics/Basic Statistics/Basic Probability.md",
     "Untitled 2.md",
-    "Mathematics/Discrete mathematics/Set Theory/Theory of Sets.md",
-    "Computer Science/Languages/Excel/DAX.md",
-    "Statistics/Basic Statistics/Descriptive Statistics.md",
     "Computer Science/Languages/Excel",
     "ZZPasted images/Pasted image 20230510135550.png",
     "ZZPasted images/Pasted image 20230510135436.png",
@@ -177,7 +178,6 @@
     "Computer Science/Big Data/Excel",
     "ZZPasted images/Pasted image 20230506205718.png",
     "ZZPasted images/Pasted image 20230420201706.png",
-    "ZZPasted images/Pasted image 20230420200557.png",
     "Computer Science/Big Data/Data Engineering/Data WareHouse",
     "Computer Science/Big Data/Data Engineering",
     "Mathematics/Discrete mathematics/Set Theory",
