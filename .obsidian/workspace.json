@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Statistics/Probability theory/Probability Distributions/Binomial Distribution.md",
+                "file": "Statistics/Probability theory/Probability Distributions/Gamma distribution.md",
                 "mode": "source",
                 "source": false
               }
@@ -109,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Statistics/Probability theory/Probability Distributions/Binomial Distribution.md",
+                "file": "Statistics/Probability theory/Probability Distributions/Gamma distribution.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -149,9 +149,10 @@
   },
   "active": "a0f84dd298c2c4de",
   "lastOpenFiles": [
-    "Statistics/Probability theory/Probability Distributions/Bernoulli distribution.md",
-    "Statistics/Probability theory/Probability Distributions/Binomial Distribution.md",
     "Latex Notation.md",
+    "Statistics/Probability theory/Probability Distributions/Gamma distribution.md",
+    "Statistics/Probability theory/Probability Distributions/Binomial Distribution.md",
+    "Statistics/Probability theory/Probability Distributions/Bernoulli distribution.md",
     "General math notation.md",
     "Sets.md",
     "Temp.md",
@@ -182,7 +183,6 @@
     "ZZPasted images/Pasted image 20230529202009.png",
     "Statistics/Probability Distributions.md",
     "Statistics/Probability theory/Probability Distributions/Normal Distribution.md",
-    "Statistics/Probability theory/Probability Distributions/Gamma distribution.md",
     "Statistics/Probability theory/Probability Distributions/Uniform Distribution.md",
     "Statistics/Probability theory/Probability Distributions/Geometric Distribution.md",
     "Statistics/Probability theory/Probability Distributions/Poisson distribution.md",
