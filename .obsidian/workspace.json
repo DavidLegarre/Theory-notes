@@ -8,31 +8,42 @@
         "type": "tabs",
         "children": [
           {
-            "id": "45112a6b3274a445",
+            "id": "a0f84dd298c2c4de",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Statistics/Probability Distributions/Bernoulli distribution.md",
+                "file": "Statistics/Probability theory/Probability Distributions/Binomial Distribution.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "a0f84dd298c2c4de",
+            "id": "38bdba6ba64996e2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Biomedicine/Biology/Biomolecules/Functional groups.md",
+                "file": "Latex Notation.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "56c0019c0c84dc9d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Statistics/Probability theory/Probability Distributions/Bernoulli distribution.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Biomedicine/Biology/Biomolecules/Functional groups.md",
+                "file": "Statistics/Probability theory/Probability Distributions/Binomial Distribution.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,6 +149,20 @@
   },
   "active": "a0f84dd298c2c4de",
   "lastOpenFiles": [
+    "Statistics/Probability theory/Probability Distributions/Bernoulli distribution.md",
+    "Statistics/Probability theory/Probability Distributions/Binomial Distribution.md",
+    "Latex Notation.md",
+    "General math notation.md",
+    "Sets.md",
+    "Temp.md",
+    "Untitled.md",
+    "Statistics/Probability theory/Probability.md",
+    "Statistics/Probability theory/Probability Distributions/Untitled.md",
+    "Statistics/Probability theory/Probability Distributions",
+    "Statistics/Probability theory/Probability Mass Function (PMF).md",
+    "Statistics/Probability theory/Probability Density Function (PDF).md",
+    "Statistics/Basic Statistics/Descriptive Statistics.md",
+    "Biomedicine/Biology/Biomolecules/Functional groups.md",
     "ZZPasted images/pages (4).png",
     "ZZPasted images/pages (3).png",
     "ZZPasted images/pages (2).png",
@@ -145,45 +170,31 @@
     "ZZPasted images/pages.png",
     "ZZPasted images/Pasted image 20230531233018.png",
     "Biomedicine/Biology/Biomolecules/Carbohydrates.md",
-    "Biomedicine/Biology/Biomolecules/Functional groups.md",
-    "Latex Notation.md",
     "Biomedicine/Biology/Biomolecules/Untitled",
     "Biomedicine/Biology/Biomolecules/Carbohydrates/sugar.md",
     "Biomedicine/Biology/Biomolecules/Carbohydrates/Glucose.md",
     "Biomedicine/Biology/Biomolecule.md",
     "Statistics/Probability theory/Random variables.md",
     "ZZPasted images/Pasted image 20230529204624.png",
-    "Statistics/Probability theory/Probability Density Function (PDF).md",
-    "Statistics/Probability Distributions/Bernoulli distribution.md",
-    "Statistics/Probability theory/Probability.md",
-    "Statistics/Probability theory/Probability Mass Function (PMF).md",
     "ZZPasted images/Pasted image 20230529202225.png",
     "Statistics/Probability theory/Cumulative Distribution Function (CDF).md",
     "ZZPasted images/Pasted image 20230529202017.png",
     "ZZPasted images/Pasted image 20230529202009.png",
-    "ZZPasted images/Pasted image 20230529201956.png",
     "Statistics/Probability Distributions.md",
-    "Statistics/Probability Distributions/Normal Distribution.md",
-    "Statistics/Probability Distributions/Gamma distribution.md",
-    "Statistics/Probability Distributions/Uniform Distribution.md",
-    "Statistics/Probability Distributions/Geometric Distribution.md",
-    "Statistics/Probability Distributions/Poisson distribution.md",
-    "Statistics/Probability Distributions/Binomial Distribution.md",
+    "Statistics/Probability theory/Probability Distributions/Normal Distribution.md",
+    "Statistics/Probability theory/Probability Distributions/Gamma distribution.md",
+    "Statistics/Probability theory/Probability Distributions/Uniform Distribution.md",
+    "Statistics/Probability theory/Probability Distributions/Geometric Distribution.md",
+    "Statistics/Probability theory/Probability Distributions/Poisson distribution.md",
     "Probability Distributions/Binomial Distribution.md",
     "Probability Distributions",
-    "Statistics/Probability Distributions",
-    "Computer Science/Big Data/Big Data Steps.md",
-    "Statistics/Probability theory/Confidence Interval.md",
-    "General math notation.md",
-    "Inbox.md",
-    "Sets.md",
+    "Statistics/Probability theory/Probability Distributions",
     "Computer Science/Languages/Excel",
     "Computer Science/Big Data/Excel",
     "Computer Science/Big Data/Data Engineering/Data WareHouse",
     "Computer Science/Big Data/Data Engineering",
     "Mathematics/Discrete mathematics/Set Theory",
     "Mathematics/Topology",
-    "Statistics/Inference/Numerical Data",
     "Mathematics/Number Theory/Number Theory.canvas",
     "Mathematics/Cryptography/Summary Cripto.canvas",
     "Mathematics/Number Theory/Modular Equations.canvas",
