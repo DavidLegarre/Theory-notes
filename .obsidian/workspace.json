@@ -13,31 +13,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Statistics/Probability theory/Probability Distributions/Gamma distribution.md",
+                "file": "Computer Science/Big Data/Spark/Spark Intro.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "38bdba6ba64996e2",
+            "id": "ccfa00ae0c612d0b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Latex Notation.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "56c0019c0c84dc9d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Statistics/Probability theory/Probability Distributions/Bernoulli distribution.md",
+                "file": "Computer Science/Big Data/Spark/MapReduce.md",
                 "mode": "source",
                 "source": false
               }
@@ -109,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Statistics/Probability theory/Probability Distributions/Gamma distribution.md",
+                "file": "Computer Science/Big Data/Spark/Spark Intro.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -149,19 +137,32 @@
   },
   "active": "a0f84dd298c2c4de",
   "lastOpenFiles": [
-    "Latex Notation.md",
+    "ZZPasted images/Pasted image 20230622164921.png",
+    "Computer Science/Big Data/Spark/MapReduce.md",
+    "Computer Science/Big Data/Spark/Spark Intro.md",
+    "Statistics/Inference/Linear Regression.md",
+    "Computer Science/Big Data/Spark",
+    "Statistics/Data Sampling.md",
+    "Statistics/Probability theory/Random variables.md",
+    "Statistics/Probability theory/Probability Mass Function (PMF).md",
+    "Statistics/Probability theory/Probability Density Function (PDF).md",
+    "Statistics/Probability theory/Probability.md",
+    "Statistics/Probability theory/Probabilities Properties.md",
+    "Statistics/Probability theory/Probabilistic Graphical Models.md",
+    "Statistics/Probability theory/expected value.md",
+    "Statistics/Probability theory/Cumulative Distribution Function (CDF).md",
+    "Statistics/Probability theory/Confidence Interval.md",
+    "Statistics/Probability theory/Central Limit Theorem.md",
     "Statistics/Probability theory/Probability Distributions/Gamma distribution.md",
+    "Latex Notation.md",
     "Statistics/Probability theory/Probability Distributions/Binomial Distribution.md",
     "Statistics/Probability theory/Probability Distributions/Bernoulli distribution.md",
     "General math notation.md",
     "Sets.md",
     "Temp.md",
     "Untitled.md",
-    "Statistics/Probability theory/Probability.md",
     "Statistics/Probability theory/Probability Distributions/Untitled.md",
     "Statistics/Probability theory/Probability Distributions",
-    "Statistics/Probability theory/Probability Mass Function (PMF).md",
-    "Statistics/Probability theory/Probability Density Function (PDF).md",
     "Statistics/Basic Statistics/Descriptive Statistics.md",
     "Biomedicine/Biology/Biomolecules/Functional groups.md",
     "ZZPasted images/pages (4).png",
@@ -170,23 +171,11 @@
     "ZZPasted images/pages (1).png",
     "ZZPasted images/pages.png",
     "ZZPasted images/Pasted image 20230531233018.png",
-    "Biomedicine/Biology/Biomolecules/Carbohydrates.md",
     "Biomedicine/Biology/Biomolecules/Untitled",
-    "Biomedicine/Biology/Biomolecules/Carbohydrates/sugar.md",
-    "Biomedicine/Biology/Biomolecules/Carbohydrates/Glucose.md",
-    "Biomedicine/Biology/Biomolecule.md",
-    "Statistics/Probability theory/Random variables.md",
     "ZZPasted images/Pasted image 20230529204624.png",
     "ZZPasted images/Pasted image 20230529202225.png",
-    "Statistics/Probability theory/Cumulative Distribution Function (CDF).md",
     "ZZPasted images/Pasted image 20230529202017.png",
     "ZZPasted images/Pasted image 20230529202009.png",
-    "Statistics/Probability Distributions.md",
-    "Statistics/Probability theory/Probability Distributions/Normal Distribution.md",
-    "Statistics/Probability theory/Probability Distributions/Uniform Distribution.md",
-    "Statistics/Probability theory/Probability Distributions/Geometric Distribution.md",
-    "Statistics/Probability theory/Probability Distributions/Poisson distribution.md",
-    "Probability Distributions/Binomial Distribution.md",
     "Probability Distributions",
     "Statistics/Probability theory/Probability Distributions",
     "Computer Science/Languages/Excel",
@@ -194,7 +183,6 @@
     "Computer Science/Big Data/Data Engineering/Data WareHouse",
     "Computer Science/Big Data/Data Engineering",
     "Mathematics/Discrete mathematics/Set Theory",
-    "Mathematics/Topology",
     "Mathematics/Number Theory/Number Theory.canvas",
     "Mathematics/Cryptography/Summary Cripto.canvas",
     "Mathematics/Number Theory/Modular Equations.canvas",
