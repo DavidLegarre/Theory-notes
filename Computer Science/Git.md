@@ -169,7 +169,18 @@ To explore a merge conflict use git diff to compare the changes in the feature b
 git diff
 ```
 
+The easiest way to fix the merge conflict is use the editor to choose between the incoming changes (feature) or the existing changes (master). Then create a *new merge* with the changes you want to keep
 
+```
+# choose  preferred code on master branch
+git commit -am "resolved merge conflict"
+```
+
+If you're not sure, you can abort:
+
+```
+git merge --abort
+```
 
 ## How to resolve ‘fatal: refusing to merge unrelated histories’
 
