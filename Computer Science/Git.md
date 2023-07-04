@@ -140,6 +140,36 @@ Create a new branch and move into it:
 git checkout -b awesome
 ```
 
+## Git stash
+
+Basic way to create and apply a stash
+
+```
+git stash
+git stash pop
+```
+
+Manage your stashes more easily by giving them a name
+
+```
+git stash save coolstuff
+```
+
+List out all stashes
+
+```
+git stash list
+```
+
+Apply a stash based on its index
+
+```
+git stash apply 1
+```
+
+## Git rebase
+
+
 # Pull Request
 
 ![Pull Request](https://youtu.be/8lGpZkjnkt4)
@@ -190,4 +220,48 @@ git merge --abort
 ## How to resolve ‘fatal: refusing to merge unrelated histories’
 
 Use `--allow-unrelated-histories`
+
+## Git Reset
+
+Unstage all staged files:
+
+```
+git reset
+```
+
+Rollback to a previous commit, BUT keep your changes in the working directory
+
+```
+git reset <commit-ID>
+```
+
+Rollback to a previous commit AND discard all changes. 
+
+```
+git reset <commit-ID> --hard
+```
+
+## Git Revert
+
+Undo a commit with a new commit
+
+```
+git rever <commit-ID> -m "reverting last commit"
+```
+
+## Git commit --amend
+
+Update the message on previous commit
+
+```
+git commit --amend -m "better message"
+```
+
+include a file you forgot on your last commit
+
+```
+git add <your-file>
+git commit --ammend --no-edit
+```
+
 
