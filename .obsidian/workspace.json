@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Computer Science/Big Data/Spark/Spark Intro.md",
+                "file": "Computer Science/Git.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Computer Science/Big Data/Spark/Spark Intro.md",
+                "file": "Computer Science/Git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,11 +135,12 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "a0f84dd298c2c4de",
+  "active": "2a0ac3bd029ca9f7",
   "lastOpenFiles": [
+    "Computer Science/Git",
+    "Computer Science/Big Data/Spark/Spark Intro.md",
     "ZZPasted images/Pasted image 20230622164921.png",
     "Computer Science/Big Data/Spark/MapReduce.md",
-    "Computer Science/Big Data/Spark/Spark Intro.md",
     "Statistics/Inference/Linear Regression.md",
     "Computer Science/Big Data/Spark",
     "Statistics/Data Sampling.md",
@@ -175,7 +176,6 @@
     "ZZPasted images/Pasted image 20230529204624.png",
     "ZZPasted images/Pasted image 20230529202225.png",
     "ZZPasted images/Pasted image 20230529202017.png",
-    "ZZPasted images/Pasted image 20230529202009.png",
     "Probability Distributions",
     "Statistics/Probability theory/Probability Distributions",
     "Computer Science/Languages/Excel",
