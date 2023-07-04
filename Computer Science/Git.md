@@ -140,6 +140,11 @@ Create a new branch and move into it:
 git checkout -b awesome
 ```
 
+# Pull Request
+
+![Pull Request](https://youtu.be/8lGpZkjnkt4)
+
+
 # Problem Solving
 
 ## How merge conflicts happen
