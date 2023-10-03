@@ -4,28 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "cb0d284388197788",
+        "id": "e0619e9b22179655",
         "type": "tabs",
         "children": [
           {
-            "id": "a0f84dd298c2c4de",
+            "id": "6c1a9ff12484f438",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Computer Science/Git.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ccfa00ae0c612d0b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Computer Science/Big Data/Spark/MapReduce.md",
+                "file": "Statistics/Basic Statistics/Basic Probability.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Computer Science/Git.md",
+                "file": "Statistics/Basic Statistics/Basic Probability.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,12 +123,13 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "a0f84dd298c2c4de",
+  "active": "6c1a9ff12484f438",
   "lastOpenFiles": [
+    "Computer Science/Big Data/Spark/MapReduce.md",
+    "Computer Science/Git.md",
     "Computer Science/Git",
     "Computer Science/Big Data/Spark/Spark Intro.md",
     "ZZPasted images/Pasted image 20230622164921.png",
-    "Computer Science/Big Data/Spark/MapReduce.md",
     "Statistics/Inference/Linear Regression.md",
     "Computer Science/Big Data/Spark",
     "Statistics/Data Sampling.md",
@@ -182,7 +171,6 @@
     "Computer Science/Big Data/Excel",
     "Computer Science/Big Data/Data Engineering/Data WareHouse",
     "Computer Science/Big Data/Data Engineering",
-    "Mathematics/Discrete mathematics/Set Theory",
     "Mathematics/Number Theory/Number Theory.canvas",
     "Mathematics/Cryptography/Summary Cripto.canvas",
     "Mathematics/Number Theory/Modular Equations.canvas",
