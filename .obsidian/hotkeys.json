@@ -25,5 +25,13 @@
       "key": "D"
     }
   ],
-  "workspace:next-tab": []
+  "workspace:next-tab": [],
+  "obsidian-git:pull": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "F7"
+    }
+  ]
 }
